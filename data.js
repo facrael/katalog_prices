@@ -3198,13 +3198,5 @@ window.partsData = [
     "unit": "шт",
     "price": 1020,
     "link": "https://www.autoopt.ru/catalog/901262-shlang_tormoznoj_kamaz_4310_zadnij_gajka_gajka_m20hm20_l805__d20mm_poljus_alfa"
-  },
-  {
-    "id": 401,
-    "name": "Текущий ремонт",
-    "catalog": "",
-    "unit": "нормо-час",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search="
   }
 ];

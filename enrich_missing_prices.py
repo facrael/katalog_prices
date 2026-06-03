@@ -131,7 +131,9 @@ def main():
         
         if num_val is not None:
             try:
-                float(num_val)
+                part_id = int(float(num_val))
+                if part_id == 401:
+                    continue
                 cat_str = str(catalog_val).strip() if catalog_val else ""
                 
                 cache_entry = cache.get(cat_str)
@@ -152,7 +154,7 @@ def main():
                 ws.cell(row=r, column=7).value = link
                 
                 web_data.append({
-                    "id": int(float(num_val)),
+                    "id": part_id,
                     "name": str(name_val).strip() if name_val else "",
                     "catalog": cat_str,
                     "unit": str(unit_val).strip() if unit_val else "",
@@ -171,17 +173,20 @@ def main():
     # 2. Delete rows 1 to 10
     ws.delete_rows(1, 10)
     
-    # 3. Update Итого formula in new Row 404
-    ws.cell(row=404, column=6).value = "=SUM(F3:F403)"
+    # 3. Delete row 403 (which is ID 401 "Текущий ремонт")
+    ws.delete_rows(403, 1)
     
-    # 4. Delete trailing footnotes/signatures from row 405 onwards
-    if ws.max_row > 404:
-        ws.delete_rows(405, ws.max_row - 404)
+    # 4. Update Итого formula in new Row 403 (which was Row 414, shifted up by 11)
+    ws.cell(row=403, column=6).value = "=SUM(F3:F402)"
+    
+    # 5. Delete trailing footnotes/signatures from row 404 onwards
+    if ws.max_row > 403:
+        ws.delete_rows(404, ws.max_row - 403)
         
-    # 5. Shift and restore valid merged cell ranges
+    # 6. Shift and restore valid merged cell ranges
     for r in merged_ranges:
-        if r.min_row > 10 and r.min_row < 415:
-            r.shift(row_shift=-10)
+        if r.min_row == 414:
+            r.shift(row_shift=-11)
             ws.merged_cells.add(r)
 
     # 4. Save Excel with Permission error fallback
