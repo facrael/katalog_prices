@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // State Variables
   let filteredData = [...categorizedData];
   let currentPage = 1;
-  const itemsPerPage = 25;
+  const itemsPerPage = 100;
   let currentCategory = 'Все';
   let searchQuery = '';
   let currentSort = 'id-asc';
@@ -92,18 +92,13 @@ document.addEventListener('DOMContentLoaded', () => {
   // Calculate Dashboard Stats
   function calculateStats() {
     const total = categorizedData.length;
-    const withPriceItems = categorizedData.filter(item => item.price !== null && item.price > 0);
-    const withPrice = withPriceItems.length;
-    const totalPrice = withPriceItems.reduce((sum, item) => sum + item.price, 0);
     
     // Count unique categories
     const categoriesSet = new Set(categorizedData.map(item => item.category));
     
     // Animate stats counter
-    animateValue(statTotal, 0, total, 1000);
-    animateValue(statWithPrice, 0, withPrice, 1000);
-    animateValue(statTotalPrice, 0, totalPrice, 1000, true);
-    animateValue(statCategories, 0, categoriesSet.size, 1000);
+    if (statTotal) animateValue(statTotal, 0, total, 1000);
+    if (statCategories) animateValue(statCategories, 0, categoriesSet.size, 1000);
   }
 
   function animateValue(obj, start, end, duration, isCurrency = false) {

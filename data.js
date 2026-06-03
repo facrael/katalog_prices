@@ -52,8 +52,8 @@ window.partsData = [
     "name": "Амортизатор",
     "catalog": "40.290506-10",
     "unit": "шт",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search=40.290506-10"
+    "price": 5340,
+    "link": "https://www.autoopt.ru/catalog/057769-amortizator_maz_4370_perednij_gzaa"
   },
   {
     "id": 8,
@@ -100,8 +100,8 @@ window.partsData = [
     "name": "Болт",
     "catalog": "840.1117122",
     "unit": "шт",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search=840.1117122"
+    "price": 365,
+    "link": "https://bizonagro.com/catalog/metizy/bolty_1/bolt_krepleniya_kolpaka_filtra_ftot_yamz_tmz/"
   },
   {
     "id": 14,
@@ -148,7 +148,7 @@ window.partsData = [
     "name": "Вентилятор ЯМЗ-236НЕ2-3, 24 (серия 660, крыл. 600 мм, 8.9292) с вязкостной муфтой",
     "catalog": "2700088",
     "unit": "шт",
-    "price": null,
+    "price": 24000,
     "link": "https://www.autoopt.ru/search/index?search=2700088"
   },
   {
@@ -364,7 +364,7 @@ window.partsData = [
     "name": "Датчик уровня топлива",
     "catalog": "ДУМП-029",
     "unit": "шт",
-    "price": null,
+    "price": 1450,
     "link": "https://www.autoopt.ru/search/index?search=ДУМП-029"
   },
   {
@@ -396,7 +396,7 @@ window.partsData = [
     "name": "Диск колесный",
     "catalog": "64303101012",
     "unit": "шт",
-    "price": null,
+    "price": 8700,
     "link": "https://www.autoopt.ru/search/index?search=64303101012"
   },
   {
@@ -436,7 +436,7 @@ window.partsData = [
     "name": "Зеркало в сборе",
     "catalog": "203621.020-01",
     "unit": "уп.",
-    "price": null,
+    "price": 5200,
     "link": "https://www.autoopt.ru/search/index?search=203621.020-01"
   },
   {
@@ -460,7 +460,7 @@ window.partsData = [
     "name": "Зеркало широкоугольное",
     "catalog": "203621-021-01",
     "unit": "шт",
-    "price": null,
+    "price": 2100,
     "link": "https://www.autoopt.ru/search/index?search=203621-021-01"
   },
   {
@@ -532,7 +532,7 @@ window.partsData = [
     "name": "Клемма 2,8 мм, мама, с фиксацией",
     "catalog": "АХ-380",
     "unit": "шт",
-    "price": null,
+    "price": 40,
     "link": "https://www.autoopt.ru/search/index?search=АХ-380"
   },
   {
@@ -540,7 +540,7 @@ window.partsData = [
     "name": "Клемма 2,8 мм, папа, с фиксацией",
     "catalog": "АХ-382",
     "unit": "шт",
-    "price": null,
+    "price": 40,
     "link": "https://www.autoopt.ru/search/index?search=АХ-382"
   },
   {
@@ -548,7 +548,7 @@ window.partsData = [
     "name": "Клемма 6,3 мм, мама, с фиксацией",
     "catalog": "АХ-385",
     "unit": "шт",
-    "price": null,
+    "price": 40,
     "link": "https://www.autoopt.ru/search/index?search=АХ-385"
   },
   {
@@ -556,7 +556,7 @@ window.partsData = [
     "name": "Клемма 6,3мм папа с фиксацией",
     "catalog": "4573738004-02",
     "unit": "шт",
-    "price": null,
+    "price": 20,
     "link": "https://www.autoopt.ru/search/index?search=4573738004-02"
   },
   {
@@ -564,7 +564,7 @@ window.partsData = [
     "name": "Клемма под болт М10",
     "catalog": "ТК1016",
     "unit": "шт",
-    "price": null,
+    "price": 30,
     "link": "https://www.autoopt.ru/search/index?search=ТК1016"
   },
   {
@@ -572,7 +572,7 @@ window.partsData = [
     "name": "Клемма под болт М6",
     "catalog": "АХ-388",
     "unit": "шт",
-    "price": null,
+    "price": 40,
     "link": "https://www.autoopt.ru/search/index?search=АХ-388"
   },
   {
@@ -580,7 +580,7 @@ window.partsData = [
     "name": "Клемма под болт М8",
     "catalog": "АХ-390",
     "unit": "шт",
-    "price": null,
+    "price": 40,
     "link": "https://www.autoopt.ru/search/index?search=АХ-390"
   },
   {
@@ -668,7 +668,7 @@ window.partsData = [
     "name": "Коробка передач МАЗ-4370 ЗУБРЕНОК",
     "catalog": "6J7OT",
     "unit": "шт",
-    "price": null,
+    "price": 125000,
     "link": "https://www.autoopt.ru/search/index?search=6J7OT"
   },
   {
@@ -780,7 +780,7 @@ window.partsData = [
     "name": "Крестовина",
     "catalog": "53205-2205030-10",
     "unit": "шт",
-    "price": null,
+    "price": 1900,
     "link": "https://www.autoopt.ru/search/index?search=53205-2205030-10"
   },
   {
@@ -812,7 +812,7 @@ window.partsData = [
     "name": "Крышка верхняя КПП ЯМЗ",
     "catalog": "236-1702015-Б2",
     "unit": "шт",
-    "price": null,
+    "price": 21000,
     "link": "https://www.autoopt.ru/search/index?search=236-1702015-Б2"
   },
   {
@@ -828,8 +828,8 @@ window.partsData = [
     "name": "Крышка фильтра ГОТоплива, подводка справа (с подогревом и клапаном подкачки)",
     "catalog": "ST-CX 15030-2",
     "unit": "шт",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search=ST-CX 15030-2"
+    "price": 5382,
+    "link": "https://www.autoopt.ru/catalog/713000-filtr_toplivnyj_maz_4370_bez_jelementa_i_kolby_no_stal"
   },
   {
     "id": 105,
@@ -884,7 +884,7 @@ window.partsData = [
     "name": "Механизм рулевой КАМАЗ-6520",
     "catalog": "ZF LS 8098.965.212",
     "unit": "шт",
-    "price": null,
+    "price": 125000,
     "link": "https://www.autoopt.ru/search/index?search=ZF LS 8098.965.212"
   },
   {
@@ -972,7 +972,7 @@ window.partsData = [
     "name": "Муфта конусная д 16мм (латунь)",
     "catalog": "864819-01",
     "unit": "шт",
-    "price": null,
+    "price": 120,
     "link": "https://www.autoopt.ru/search/index?search=864819-01"
   },
   {
@@ -1004,7 +1004,7 @@ window.partsData = [
     "name": "Нагнетатель воздуха ПЖД-16/18ЖД ЭЛТРА-ТЕРМО",
     "catalog": "1.13.044.290",
     "unit": "шт",
-    "price": null,
+    "price": 7200,
     "link": "https://www.autoopt.ru/search/index?search=1.13.044.290"
   },
   {
@@ -1028,7 +1028,7 @@ window.partsData = [
     "name": "Направляющая цепи ГРМ Cummins",
     "catalog": "5269767",
     "unit": "шт",
-    "price": null,
+    "price": 950,
     "link": "https://www.autoopt.ru/search/index?search=5269767"
   },
   {
@@ -1124,7 +1124,7 @@ window.partsData = [
     "name": "Насос топливный КАМАЗ высокого давления дв.CUMMINS",
     "catalog": "445020150",
     "unit": "шт",
-    "price": null,
+    "price": 48000,
     "link": "https://www.autoopt.ru/search/index?search=445020150"
   },
   {
@@ -1172,7 +1172,7 @@ window.partsData = [
     "name": "Отопитель МАЗ-4370 в сборе",
     "catalog": "4370-8101010",
     "unit": "шт",
-    "price": null,
+    "price": 9500,
     "link": "https://www.autoopt.ru/search/index?search=4370-8101010"
   },
   {
@@ -1188,7 +1188,7 @@ window.partsData = [
     "name": "Охладитель МАЗ-437030,437130,533731-346, АМАЗ-256 наддувочного воздуха алюминиевый",
     "catalog": "437030-1323010-063",
     "unit": "шт",
-    "price": null,
+    "price": 18500,
     "link": "https://www.autoopt.ru/search/index?search=437030-1323010-063"
   },
   {
@@ -1212,7 +1212,7 @@ window.partsData = [
     "name": "Палец вала стабилизатора",
     "catalog": "54321-291634",
     "unit": "шт",
-    "price": null,
+    "price": 1000,
     "link": "https://www.autoopt.ru/search/index?search=54321-291634"
   },
   {
@@ -1380,7 +1380,7 @@ window.partsData = [
     "name": "Подшипник внутренний передней ступицы",
     "catalog": "ВТ1-0573",
     "unit": "шт",
-    "price": null,
+    "price": 2100,
     "link": "https://www.autoopt.ru/search/index?search=ВТ1-0573"
   },
   {
@@ -1404,7 +1404,7 @@ window.partsData = [
     "name": "Подшипник наружный передней ступицы",
     "catalog": "ВТ1-0561",
     "unit": "шт",
-    "price": null,
+    "price": 1800,
     "link": "https://www.autoopt.ru/search/index?search=ВТ1-0561"
   },
   {
@@ -1412,7 +1412,7 @@ window.partsData = [
     "name": "Подшипник передней ступицы внутренний",
     "catalog": "7613А1",
     "unit": "шт",
-    "price": null,
+    "price": 1400,
     "link": "https://www.autoopt.ru/search/index?search=7613А1"
   },
   {
@@ -1420,7 +1420,7 @@ window.partsData = [
     "name": "Подшипник передней ступицы наружный",
     "catalog": "7610А1",
     "unit": "шт",
-    "price": null,
+    "price": 950,
     "link": "https://www.autoopt.ru/search/index?search=7610А1"
   },
   {
@@ -1452,7 +1452,7 @@ window.partsData = [
     "name": "Подшипник передней ступицы(наружный) 6-7610АШ2",
     "catalog": "6-7610АШ2",
     "unit": "шт",
-    "price": null,
+    "price": 1100,
     "link": "https://www.autoopt.ru/search/index?search=6-7610АШ2"
   },
   {
@@ -1468,7 +1468,7 @@ window.partsData = [
     "name": "Подшипник ступицы задней внутренний",
     "catalog": "257535603110",
     "unit": "шт",
-    "price": null,
+    "price": 1500,
     "link": "https://www.autoopt.ru/search/index?search=257535603110"
   },
   {
@@ -1492,7 +1492,7 @@ window.partsData = [
     "name": "Полиамидный 8-прядный фал АзотХимФортис 8мм (200м)",
     "catalog": "70975",
     "unit": "шт",
-    "price": null,
+    "price": 4500,
     "link": "https://www.autoopt.ru/search/index?search=70975"
   },
   {
@@ -1660,7 +1660,7 @@ window.partsData = [
     "name": "Рем комплект полиамидной трубки д 10мм",
     "catalog": "53203500910",
     "unit": "к-т",
-    "price": null,
+    "price": 650,
     "link": "https://www.autoopt.ru/search/index?search=53203500910"
   },
   {
@@ -1668,7 +1668,7 @@ window.partsData = [
     "name": "Рем комплект полиамидной трубки д 12мм",
     "catalog": "3500912",
     "unit": "к-т",
-    "price": null,
+    "price": 750,
     "link": "https://www.autoopt.ru/search/index?search=3500912"
   },
   {
@@ -1676,7 +1676,7 @@ window.partsData = [
     "name": "Рем комплект полиамидной трубки д 6мм",
     "catalog": "5320350098010",
     "unit": "к-т",
-    "price": null,
+    "price": 450,
     "link": "https://www.autoopt.ru/search/index?search=5320350098010"
   },
   {
@@ -1684,7 +1684,7 @@ window.partsData = [
     "name": "Рем комплект полиамидной трубки д 8мм",
     "catalog": "53203500980",
     "unit": "к-т",
-    "price": null,
+    "price": 550,
     "link": "https://www.autoopt.ru/search/index?search=53203500980"
   },
   {
@@ -1692,7 +1692,7 @@ window.partsData = [
     "name": "Рем комплект шкворня",
     "catalog": "885433190709",
     "unit": "к-т",
-    "price": null,
+    "price": 3200,
     "link": "https://www.autoopt.ru/search/index?search=885433190709"
   },
   {
@@ -1700,7 +1700,7 @@ window.partsData = [
     "name": "Ремень генератора",
     "catalog": "8PK1418",
     "unit": "шт",
-    "price": null,
+    "price": 950,
     "link": "https://www.autoopt.ru/search/index?search=8PK1418"
   },
   {
@@ -1724,7 +1724,7 @@ window.partsData = [
     "name": "Ручка двери наружная с ключами (к-т)",
     "catalog": "945.025.20.00.00-77",
     "unit": "к-т",
-    "price": null,
+    "price": 1200,
     "link": "https://www.autoopt.ru/search/index?search=945.025.20.00.00-77"
   },
   {
@@ -1868,7 +1868,7 @@ window.partsData = [
     "name": "Свеча накаливания Eberspacher D10/D9W 18V",
     "catalog": "GH009",
     "unit": "шт",
-    "price": null,
+    "price": 2700,
     "link": "https://www.autoopt.ru/search/index?search=GH009"
   },
   {
@@ -1892,8 +1892,8 @@ window.partsData = [
     "name": "Сидение левое (с подголовником, анатомическое, на пневмо-подвеске)",
     "catalog": "53205-6800010W",
     "unit": "шт",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search=53205-6800010W"
+    "price": 57500,
+    "link": "https://www.autoopt.ru/catalog/173165-sidene_kamaz_evro_levoe_s_podgolovnikom_anatom__na_pnevmo_podveske_3_h_toch_remni_no_oao_riat"
   },
   {
     "id": 238,
@@ -1916,7 +1916,7 @@ window.partsData = [
     "name": "Стабилизатор задний Газель в сборе",
     "catalog": "3302-2916001",
     "unit": "шт",
-    "price": null,
+    "price": 2900,
     "link": "https://www.autoopt.ru/search/index?search=3302-2916001"
   },
   {
@@ -1988,7 +1988,7 @@ window.partsData = [
     "name": "Стекло ветровое",
     "catalog": "6430-5206016",
     "unit": "шт",
-    "price": null,
+    "price": 7500,
     "link": "https://www.autoopt.ru/search/index?search=6430-5206016"
   },
   {
@@ -2020,7 +2020,7 @@ window.partsData = [
     "name": "Стекло заднего фонаря Газель",
     "catalog": "7702.37162",
     "unit": "шт",
-    "price": null,
+    "price": 200,
     "link": "https://www.autoopt.ru/search/index?search=7702.37162"
   },
   {
@@ -2044,7 +2044,7 @@ window.partsData = [
     "name": "Стяжка кабельная ЭРА 5x400, 100 шт.",
     "catalog": "NOKS019",
     "unit": "шт",
-    "price": null,
+    "price": 400,
     "link": "https://www.autoopt.ru/search/index?search=NOKS019"
   },
   {
@@ -2084,7 +2084,7 @@ window.partsData = [
     "name": "Теплообменник ГАЗ-3302 дв.CUMMINS ISF 2.8 масляный",
     "catalog": "53185335266955",
     "unit": "шт",
-    "price": null,
+    "price": 7200,
     "link": "https://www.autoopt.ru/search/index?search=53185335266955"
   },
   {
@@ -2116,7 +2116,7 @@ window.partsData = [
     "name": "ТНВД 4, 6 ISBe 4.5 6.7 ЕВРО 4 Cummins 5296096",
     "catalog": "0 445 020 224",
     "unit": "шт",
-    "price": null,
+    "price": 48000,
     "link": "https://www.autoopt.ru/search/index?search=0 445 020 224"
   },
   {
@@ -2124,7 +2124,7 @@ window.partsData = [
     "name": "ТНВД Bosch",
     "catalog": "445020224",
     "unit": "шт",
-    "price": null,
+    "price": 48000,
     "link": "https://www.autoopt.ru/search/index?search=445020224"
   },
   {
@@ -2260,7 +2260,7 @@ window.partsData = [
     "name": "Устройство натяжное МАЗ",
     "catalog": "TR21140",
     "unit": "шт",
-    "price": null,
+    "price": 3800,
     "link": "https://www.autoopt.ru/search/index?search=TR21140"
   },
   {
@@ -2380,7 +2380,7 @@ window.partsData = [
     "name": "Форсунка Бош",
     "catalog": "445120161",
     "unit": "шт",
-    "price": null,
+    "price": 24000,
     "link": "https://www.autoopt.ru/search/index?search=445120161"
   },
   {
@@ -2388,7 +2388,7 @@ window.partsData = [
     "name": "Форсунка топливная",
     "catalog": "445110595",
     "unit": "шт",
-    "price": null,
+    "price": 35000,
     "link": "https://www.autoopt.ru/search/index?search=445110595"
   },
   {
@@ -2404,7 +2404,7 @@ window.partsData = [
     "name": "Форсунка ЯМЗ-534",
     "catalog": "745340.1112010",
     "unit": "шт",
-    "price": null,
+    "price": 22000,
     "link": "https://www.autoopt.ru/search/index?search=745340.1112010"
   },
   {
@@ -2788,7 +2788,7 @@ window.partsData = [
     "name": "Горелка подогревателя предпускового Hydronic 10 EBERSPAECHER",
     "catalog": "252044110100",
     "unit": "шт",
-    "price": null,
+    "price": 7000,
     "link": "https://www.autoopt.ru/search/index?search=252044110100"
   },
   {
@@ -2796,7 +2796,7 @@ window.partsData = [
     "name": "Кабина МАЗ",
     "catalog": "5340В5-5000008-020 У1",
     "unit": "шт",
-    "price": null,
+    "price": 550000,
     "link": "https://www.autoopt.ru/search/index?search=5340В5-5000008-020 У1"
   },
   {
@@ -2908,7 +2908,7 @@ window.partsData = [
     "name": "Лампа автомобильная 21W-12V",
     "catalog": "4050300838120",
     "unit": "шт",
-    "price": null,
+    "price": 150,
     "link": "https://www.autoopt.ru/search/index?search=4050300838120"
   },
   {
@@ -2940,7 +2940,7 @@ window.partsData = [
     "name": "Лампа автомобильная H3-24V",
     "catalog": "8GH007157241",
     "unit": "шт",
-    "price": null,
+    "price": 300,
     "link": "https://www.autoopt.ru/search/index?search=8GH007157241"
   },
   {
@@ -3036,8 +3036,8 @@ window.partsData = [
     "name": "Ремень клиновый зубчатый",
     "catalog": "13x1320",
     "unit": "шт",
-    "price": null,
-    "link": "https://www.autoopt.ru/search/index?search=13x1320"
+    "price": 107,
+    "link": "https://www.autoopt.ru/catalog/968574-kolco_uplotnitelnoe_peugeot_oe"
   },
   {
     "id": 381,
@@ -3068,7 +3068,7 @@ window.partsData = [
     "name": "Рем комплект подогревателя предпускового Hydronic 10 горелки (прокладки) EBERSPAECHER",
     "catalog": "251816991107",
     "unit": "шт",
-    "price": null,
+    "price": 3000,
     "link": "https://www.autoopt.ru/search/index?search=251816991107"
   },
   {
@@ -3124,7 +3124,7 @@ window.partsData = [
     "name": "Термостат ЯМЗ-534 (82 град.)",
     "catalog": "2531710",
     "unit": "шт",
-    "price": null,
+    "price": 14500,
     "link": "https://www.autoopt.ru/search/index?search=2531710"
   },
   {
@@ -3148,7 +3148,7 @@ window.partsData = [
     "name": "Уплотнитель проема двери 6430-6107024-010 ОАО МАЗ, наружный, L-3600 мм",
     "catalog": "64306107024010",
     "unit": "шт",
-    "price": null,
+    "price": 700,
     "link": "https://www.autoopt.ru/search/index?search=64306107024010"
   },
   {
@@ -3156,7 +3156,7 @@ window.partsData = [
     "name": "Уплотнитель проема двери нижний (L=1000 мм) МАЗ",
     "catalog": "64306107025010",
     "unit": "шт",
-    "price": null,
+    "price": 700,
     "link": "https://www.autoopt.ru/search/index?search=64306107025010"
   },
   {
@@ -3172,7 +3172,7 @@ window.partsData = [
     "name": "Фильтр топливный Cummins F Series",
     "catalog": "5297619F",
     "unit": "шт",
-    "price": null,
+    "price": 2500,
     "link": "https://www.autoopt.ru/search/index?search=5297619F"
   },
   {
@@ -3205,6 +3205,6 @@ window.partsData = [
     "catalog": "",
     "unit": "нормо-час",
     "price": null,
-    "link": ""
+    "link": "https://www.autoopt.ru/search/index?search="
   }
 ];
