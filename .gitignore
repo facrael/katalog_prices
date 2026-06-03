@@ -1,0 +1,29 @@
+# Log files
+*.log
+scraper.log
+
+# Temporary HTML dumps from scraper
+autoopt_catalog_search.html
+autoopt_real_search_results.html
+autoopt_search_test.html
+autoopt_text.txt
+avtoall_search_test.html
+real_autoopt_page.html
+search_index_resp.html
+
+# Text files and intermediate reports
+*.txt
+battery_prices_result.txt
+test_step_log.txt
+
+# JSON dumps (except data.json if needed, but data.js is used by site)
+excel_head.json
+extracted_rows.json
+
+# Local environments and system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+venv/
+.venv/

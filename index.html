@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Технико-коммерческое предложение на поставку и ремонт запчастей транспортных средств. Детализированный каталог с актуальными ценами и ссылками.">
+  <title>Технико-коммерческое предложение | Каталог Запчастей</title>
+  <!-- Google Fonts Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- App Header with Document Info -->
+    <header class="app-header" id="app-main-header">
+      <div class="header-info">
+        <h1>Технико-коммерческое предложение</h1>
+        <div class="header-meta">
+          <div class="meta-item">Заказчик: <span>Уральский филиал АО «Атомспецтранс» в г. Лесной</span></div>
+          <div class="meta-item">Запрос от: <span>02.03.2026 № 48УФ-15.12-19/26-29</span></div>
+          <div class="meta-item">Услуга: <span>Текущий ремонт и поставка запчастей транспортных средств</span></div>
+        </div>
+      </div>
+      <div class="header-actions">
+        <!-- Theme Toggle Button -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Переключить тему">
+          <i>☀️</i>
+        </button>
+        <!-- Excel Download Link -->
+        <a href="form_enriched.xlsx" id="download-excel-link" class="export-btn" download>
+          <span>📊 Скачать Excel (.xlsx)</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- Dashboard Stats Grid -->
+    <section class="stats-grid" id="dashboard-stats" aria-label="Статистика предложения">
+      <!-- Total Parts -->
+      <div class="stat-card" id="stat-card-total">
+        <div class="stat-icon">📦</div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-total">0</span>
+          <span class="stat-label">Всего деталей</span>
+        </div>
+      </div>
+      <!-- Parts with Price -->
+      <div class="stat-card" id="stat-card-with-price">
+        <div class="stat-icon success">🏷️</div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-with-price">0</span>
+          <span class="stat-label">Найдено цен</span>
+        </div>
+      </div>
+      <!-- Total Sum -->
+      <div class="stat-card" id="stat-card-total-price">
+        <div class="stat-icon warning">💰</div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-total-price">0 ₽</span>
+          <span class="stat-label">Общая сумма каталога</span>
+        </div>
+      </div>
+      <!-- Unique Categories -->
+      <div class="stat-card" id="stat-card-categories">
+        <div class="stat-icon">🗂️</div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-categories">0</span>
+          <span class="stat-label">Категорий деталей</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Search, Filters, and Sorting Controls -->
+    <section class="control-panel" id="catalog-controls" aria-label="Фильтры и поиск">
+      <!-- Search Input -->
+      <div class="search-box-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" class="search-input" placeholder="Поиск по наименованию запчасти или номеру по каталогу (артикулу)..." aria-label="Поиск по каталогу">
+      </div>
+      
+      <div class="filter-row">
+        <!-- Dynamic Category Tags -->
+        <div class="category-tags" id="category-tags" role="group" aria-label="Категории запчастей">
+          <!-- Dynamically populated category tags -->
+          <span class="category-tag active">Все</span>
+        </div>
+        
+        <!-- Sorting -->
+        <div class="sorting-wrapper">
+          <label for="sort-select" class="sort-label">Сортировка:</label>
+          <select id="sort-select" class="sort-select" aria-label="Сортировка">
+            <option value="id-asc">По умолчанию (№ п/п)</option>
+            <option value="id-desc">По умолчанию (в обратном порядке)</option>
+            <option value="name-asc">Наименование (А - Я)</option>
+            <option value="name-desc">Наименование (Я - А)</option>
+            <option value="price-asc">Сначала дешевые</option>
+            <option value="price-desc">Сначала дорогие</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Catalog Main Table / Mobile Cards -->
+    <section class="table-panel" id="catalog-data-section">
+      <!-- Desktop Table View -->
+      <div class="table-responsive">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th style="width: 70px;">№ п/п</th>
+              <th>Наименование запчасти или материала</th>
+              <th>Номер по каталогу</th>
+              <th style="width: 100px;">Ед. изм.</th>
+              <th style="width: 170px;">Актуальная цена</th>
+              <th style="width: 130px;">Действие</th>
+            </tr>
+          </thead>
+          <tbody id="desktop-table-body">
+            <!-- Dynamically populated table rows -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Mobile Grid Cards View -->
+      <div class="mobile-cards-grid" id="mobile-cards-container">
+        <!-- Dynamically populated mobile cards -->
+      </div>
+
+      <!-- Pagination Container -->
+      <footer class="pagination-container" id="pagination-controls">
+        <div class="pagination-info" id="pagination-info">
+          Показано <span>0 - 0</span> из <span>0</span> записей
+        </div>
+        <div class="pagination-buttons">
+          <button id="prev-page-btn" class="page-btn" disabled>← Назад</button>
+          <button id="next-page-btn" class="page-btn" disabled>Вперед →</button>
+        </div>
+      </footer>
+    </section>
+
+    <!-- Footer Meta -->
+    <footer class="app-footer" id="app-main-footer">
+      <p>Технико-коммерческое предложение сгенерировано автоматически на основе бланка организации.</p>
+      <p>Актуализация цен произведена по каталогу запчастей <a href="https://www.autoopt.ru" target="_blank" rel="noopener">autoopt.ru</a>.</p>
+      <p>&copy; 2026 АО «Атомспецтранс». Все права защищены.</p>
+    </footer>
+
+  </div>
+
+  <!-- Embed Data & Application Logic Scripts -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

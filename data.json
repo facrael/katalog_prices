@@ -1,0 +1,3210 @@
+[
+  {
+    "id": 1,
+    "name": "Аккумуляторная батарея",
+    "catalog": "6СТ132",
+    "unit": "шт",
+    "price": 15250,
+    "link": "https://www.autoopt.ru/catalog/476831-akkumuljator_tyumen_battery_standart_132ach"
+  },
+  {
+    "id": 2,
+    "name": "Аккумуляторная батарея",
+    "catalog": "6СТ75",
+    "unit": "шт",
+    "price": 9330,
+    "link": "https://www.autoopt.ru/catalog/490597-akkumuljator_exclusive_75ach_obratnaja_poljarnost"
+  },
+  {
+    "id": 3,
+    "name": "Аккумуляторная батарея",
+    "catalog": "6СТ90",
+    "unit": "шт",
+    "price": 11210,
+    "link": "https://www.autoopt.ru/catalog/490599-akkumuljator_exclusive_90ach_obratnaja_poljarnost"
+  },
+  {
+    "id": 4,
+    "name": "Аккумуляторная батарея прямая полярность",
+    "catalog": "6СТ100",
+    "unit": "шт",
+    "price": 7390,
+    "link": "https://www.autoopt.ru/catalog/165965-akkumuljator_podolsk_100ach"
+  },
+  {
+    "id": 5,
+    "name": "Аккумуляторная батарея прямая полярность (клемма под болт)",
+    "catalog": "6СТ190",
+    "unit": "шт",
+    "price": 20990,
+    "link": "https://www.autoopt.ru/catalog/741487-akkumuljator_tyumen_battery_standart_190ach"
+  },
+  {
+    "id": 6,
+    "name": "Амортизатор",
+    "catalog": "3302-2905006",
+    "unit": "шт",
+    "price": 1753,
+    "link": "https://www.autoopt.ru/catalog/171924-amortizator_gaz_3302_gazovyj_zmz_sollers"
+  },
+  {
+    "id": 7,
+    "name": "Амортизатор",
+    "catalog": "40.290506-10",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=40.290506-10"
+  },
+  {
+    "id": 8,
+    "name": "Амортизатор задней подвески",
+    "catalog": "3302-2905006-01",
+    "unit": "шт",
+    "price": 2070,
+    "link": "https://www.autoopt.ru/catalog/963518-amortizator_gaz_3302_3221_perednijzadnij_gaz_2217_zadnij_gazomasljanyj_megapower"
+  },
+  {
+    "id": 9,
+    "name": "Амортизатор кабины",
+    "catalog": "11.2905005-63",
+    "unit": "шт",
+    "price": 2310,
+    "link": "https://www.autoopt.ru/catalog/011330-amortizator_vaz_2121_21213_perednij_usilennyj_maz_kamaz_kabiny_gzaa"
+  },
+  {
+    "id": 10,
+    "name": "Амортизатор МАЗ-5440,6430 заднего подрессоривания кабины",
+    "catalog": "20.5001010-10",
+    "unit": "шт",
+    "price": 2425,
+    "link": "https://www.autoopt.ru/catalog/668279-amortizator_maz_5440_6430_zadnego_podressorivanija_kabiny_gzaa"
+  },
+  {
+    "id": 11,
+    "name": "Бампер нижний",
+    "catalog": "64221-2803017",
+    "unit": "шт",
+    "price": 3900,
+    "link": "https://www.autoopt.ru/catalog/095427-bamper_maz_nizhnij_rb"
+  },
+  {
+    "id": 12,
+    "name": "Блок управления двигателем",
+    "catalog": "6ISBe Евро-4 4995445",
+    "unit": "шт",
+    "price": 40100,
+    "link": "https://www.autoopt.ru/catalog/835044-blok_upravlenija_kamaz_evro_4_dvigatelem_cummins"
+  },
+  {
+    "id": 13,
+    "name": "Болт",
+    "catalog": "840.1117122",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=840.1117122"
+  },
+  {
+    "id": 14,
+    "name": "Болт ГБЦ Cummins",
+    "catalog": "5257728",
+    "unit": "шт",
+    "price": 480,
+    "link": "https://www.autoopt.ru/catalog/581610-bolt_gaz_3302_dv_cummins_isf_2_8_kreplenija_gbc_movelex"
+  },
+  {
+    "id": 15,
+    "name": "Болт ушка рессоры МАЗ в сб. с втулкой анкерный М20х55х1.5",
+    "catalog": "372882/5335-2902018",
+    "unit": "шт",
+    "price": 280,
+    "link": "https://www.autoopt.ru/catalog/908075-bolt_m20h1_5h55_ushka_ressory_zadnej_so_vtulkoj_maz_teflon_specmash"
+  },
+  {
+    "id": 16,
+    "name": "Брызговик МАЗ переднего крыла (390*290) малый резиновый",
+    "catalog": "6430-8403276",
+    "unit": "шт",
+    "price": 277,
+    "link": "https://www.autoopt.ru/catalog/808553-bryzgovik_maz_perednego_kryla_390h290_kmmz"
+  },
+  {
+    "id": 17,
+    "name": "Брызговик МАЗ передний (520*540) (большой) резинотканевый",
+    "catalog": "5336-8403276",
+    "unit": "шт",
+    "price": 1330,
+    "link": "https://www.autoopt.ru/catalog/125744-bryzgovik_maz_kolesa_perednego_nizhnij_rezina_510h540_zao_amkodor_jelastomer"
+  },
+  {
+    "id": 18,
+    "name": "Вал коленчатый дв. Cummins ISF 2.8",
+    "catalog": "5443207",
+    "unit": "шт",
+    "price": 26700,
+    "link": "https://www.autoopt.ru/catalog/006649-val_kolenchatyj_gaz_3302_dv_cummins_isf_2_8_foton"
+  },
+  {
+    "id": 19,
+    "name": "Вентилятор ЯМЗ-236НЕ2-3, 24 (серия 660, крыл. 600 мм, 8.9292) с вязкостной муфтой",
+    "catalog": "2700088",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=2700088"
+  },
+  {
+    "id": 20,
+    "name": "Вкладыш коренной дв.Cummins ISF 2.8L",
+    "catalog": "4946030",
+    "unit": "шт",
+    "price": 6990,
+    "link": "https://www.autoopt.ru/catalog/911642-vkladyshi_gaz_3302_dv_cummins_isf_2_8_korennyeshatunnye_d0_00_komplekt_movelex"
+  },
+  {
+    "id": 21,
+    "name": "Вкладыш коренной дв.Cummins ISF 2.8L",
+    "catalog": "4946031",
+    "unit": "шт",
+    "price": 690,
+    "link": "https://www.autoopt.ru/catalog/581617-vkladysh_gaz_3302_dv_cummins_isf_2_8_korennoj_upornyj_verhnij_d0_00_razbornyj_movelex"
+  },
+  {
+    "id": 22,
+    "name": "Вкладыш коренной дв.Cummins ISF 2.8L",
+    "catalog": "4996250",
+    "unit": "шт",
+    "price": 260,
+    "link": "https://www.autoopt.ru/catalog/581615-vkladysh_gaz_3302_dv_cummins_isf_2_8_korennoj_verhnij_d0_00_movelex"
+  },
+  {
+    "id": 23,
+    "name": "Вкладыш кронштейна рессоры МАЗ задней",
+    "catalog": "504Н-2902449",
+    "unit": "шт",
+    "price": 662,
+    "link": "https://www.autoopt.ru/catalog/166904-vkladysh_maz_kronshtejna_ressory_oao_maz"
+  },
+  {
+    "id": 24,
+    "name": "Вкладыш шатунный дв.Cummins ISF 2.8L",
+    "catalog": "5340182",
+    "unit": "шт",
+    "price": 280,
+    "link": "https://www.autoopt.ru/catalog/581619-vkladysh_gaz_3302_dv_cummins_isf_2_8_shatunnyj_nizhnij_d0_00_no_shirina_22mm_movelex"
+  },
+  {
+    "id": 25,
+    "name": "Вкладыш шатунный дв.Cummins ISF 2.8L",
+    "catalog": "5348887",
+    "unit": "шт",
+    "price": 159,
+    "link": "https://www.autoopt.ru/catalog/307686-vkladysh_gaz_3302_dv_cummins_isf_2_8_shatunnyj_verhnij_d0_00_shirina_22mm_oe"
+  },
+  {
+    "id": 26,
+    "name": "Воздушный отопитель",
+    "catalog": "ПЛАНАР 2Д 24В",
+    "unit": "шт",
+    "price": 36830,
+    "link": "https://www.autoopt.ru/catalog/751523-otopitel_vozdushnyj_dizelnyj_planar_2d_24v_2_0kvt_advers"
+  },
+  {
+    "id": 27,
+    "name": "Втулка переднего стабилизатора",
+    "catalog": "4370-2906028",
+    "unit": "шт",
+    "price": 520,
+    "link": "https://www.autoopt.ru/catalog/141108-sharnir_maz_vala_stabilizatora_oao_brt"
+  },
+  {
+    "id": 28,
+    "name": "Втулка рессоры (сайлент-блок)",
+    "catalog": "3302-2902027",
+    "unit": "шт",
+    "price": 820,
+    "link": "https://www.autoopt.ru/catalog/591943-sajlentblok_gaz_3302_gazel_next_podveski_poliuretan_pik"
+  },
+  {
+    "id": 29,
+    "name": "Втулка рычага стабилизатора 24х37 малая",
+    "catalog": "64221-2906028",
+    "unit": "шт",
+    "price": 35,
+    "link": "https://www.autoopt.ru/catalog/019167-vtulka_maz_stabilizatora_24h38mm_malaja_ash"
+  },
+  {
+    "id": 30,
+    "name": "Втулка рычага стабилизатора 30х44 средняя",
+    "catalog": "54321-2916028",
+    "unit": "шт",
+    "price": 60,
+    "link": "https://www.autoopt.ru/catalog/094772-vtulka_maz_stabilizatora_30h44mm_srednjaja_ash"
+  },
+  {
+    "id": 31,
+    "name": "Выключатель массы дистанционный 24v",
+    "catalog": "1410.3737",
+    "unit": "шт",
+    "price": 3015,
+    "link": "https://www.autoopt.ru/catalog/015506-vykljuchatel_massy_distancionnyj_kamaz_soatje"
+  },
+  {
+    "id": 32,
+    "name": "Гайка М20х1.5(корончатая)",
+    "catalog": "374910",
+    "unit": "шт",
+    "price": 290,
+    "link": "https://www.autoopt.ru/catalog/153198-gajka_m20h1_5_6n_koronchataja_mnogocelevaja_oao_maz"
+  },
+  {
+    "id": 33,
+    "name": "Гайка МАЗ хвостовика М48х2-5Н6Н",
+    "catalog": "5336-2402037",
+    "unit": "шт",
+    "price": 775,
+    "link": "https://www.autoopt.ru/catalog/136108-gajka_maz_hvostovika_m48h2_5n6n_baaz"
+  },
+  {
+    "id": 34,
+    "name": "Генератор КАМАЗ дв.CUMMINS 24V,70A TESLA",
+    "catalog": "TT11273",
+    "unit": "шт",
+    "price": 17500,
+    "link": "https://www.autoopt.ru/catalog/460038-generator_kamaz_iveco_dv_cummins_isbe_evro_3_28v_70a_tesla_technics"
+  },
+  {
+    "id": 35,
+    "name": "Генератор МАЗ, ЛАЗ, УРАЛ дв.ЯМЗ ЕВРО-3 поликлиновой 28V 80А",
+    "catalog": "4242-03.3771",
+    "unit": "шт",
+    "price": 11720,
+    "link": "https://www.autoopt.ru/catalog/176341-generator_maz_ural_dv_jamz_236ne2_6565_28v_80a_radiovolna"
+  },
+  {
+    "id": 36,
+    "name": "Генератор МАЗ-4370, МТЗ дв.Д-245.30Е2-715, 716, Д260.5 28В 60А",
+    "catalog": "3232.3771000-10",
+    "unit": "шт",
+    "price": 12785,
+    "link": "https://www.autoopt.ru/catalog/100721-generator_maz_4370_mtz_dv_d_245_30e2_715_716_d260_5_28v_60a_batje"
+  },
+  {
+    "id": 37,
+    "name": "Генератор ЯМЗ-534 AVI144A3015 28В 100А",
+    "catalog": "5340.3701010-02",
+    "unit": "шт",
+    "price": 26980,
+    "link": "https://www.autoopt.ru/catalog/643615-generator_jamz_534_avi144a3015_28v_100a_avtodizel"
+  },
+  {
+    "id": 38,
+    "name": "Герметик прокладка Done Deal",
+    "catalog": "DD6733",
+    "unit": "шт",
+    "price": 960,
+    "link": "https://www.autoopt.ru/catalog/056398-germetik_prokladka_seryj_termostojkij_85g_oem_done_deal"
+  },
+  {
+    "id": 39,
+    "name": "Горелка отопителя",
+    "catalog": "25.2069.10.0100.2",
+    "unit": "шт",
+    "price": 2400,
+    "link": "https://www.autoopt.ru/catalog/202468-gorelka_otopitelja_avtonomnogo_eberspacher_d2_termotrans"
+  },
+  {
+    "id": 40,
+    "name": "Датчик АБС Маз",
+    "catalog": "438041-3724763010",
+    "unit": "шт",
+    "price": 4170,
+    "link": "https://www.autoopt.ru/catalog/648307-datchik_abs_maz_tormoznoj_sistemy_l1160mm_uglovojbajonet_jekran"
+  },
+  {
+    "id": 41,
+    "name": "Датчик давления масла КАМАЗ, ПАЗ, ГАЗ дв.CUMMINS ISBe,ISDe,ISLe,ISF",
+    "catalog": "4076930",
+    "unit": "шт",
+    "price": 601,
+    "link": "https://www.autoopt.ru/catalog/265169-datchik_davlenija_masla_kamaz_paz_gaz_dv_cummins_isbe_isde_isle_isf_pekar"
+  },
+  {
+    "id": 42,
+    "name": "Датчик давления масла МАЗ, комбинированный ЭКРАН",
+    "catalog": "ДКД-5",
+    "unit": "шт",
+    "price": 1310,
+    "link": "https://www.autoopt.ru/catalog/652612-datchik_davlenija_masla_maz_kombinirovannyj_avtoelectrica"
+  },
+  {
+    "id": 43,
+    "name": "Датчик давления топлива в рампе Сummns 6isbe",
+    "catalog": "5260246",
+    "unit": "шт",
+    "price": 4500,
+    "link": "https://www.autoopt.ru/catalog/753553-datchik_davlenija_topliva_kamaz_dv_cummins_isbe_185_210_270_285_movelex"
+  },
+  {
+    "id": 44,
+    "name": "Датчик температуры ГАЗ, ЯМЗ",
+    "catalog": "233.3828",
+    "unit": "шт",
+    "price": 420,
+    "link": "https://www.autoopt.ru/catalog/727407-datchik_temperatury_gaz_jamz_s_jesud_ohlazhdajuschej_zhidkosti_pekar"
+  },
+  {
+    "id": 45,
+    "name": "Датчик уровня топлива",
+    "catalog": "ДУМП-02",
+    "unit": "шт",
+    "price": 1240,
+    "link": "https://www.autoopt.ru/catalog/057808-datchik_urovnja_topliva_maz_300l_jekran"
+  },
+  {
+    "id": 46,
+    "name": "Датчик уровня топлива",
+    "catalog": "ДУМП-029",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ДУМП-029"
+  },
+  {
+    "id": 47,
+    "name": "Датчик уровня топлива МАЗ",
+    "catalog": "ДУМП-03",
+    "unit": "шт",
+    "price": 1240,
+    "link": "https://www.autoopt.ru/catalog/039445-datchik_urovnja_topliva_maz_ural_500l_jekran"
+  },
+  {
+    "id": 48,
+    "name": "Диафрагма 24",
+    "catalog": "100-3519250",
+    "unit": "шт",
+    "price": 310,
+    "link": "https://www.autoopt.ru/catalog/015714-diafragma_kamery_tormoznoj_tip_24_zil_maz_brt"
+  },
+  {
+    "id": 49,
+    "name": "Диск ГАЗ (Штампованные)",
+    "catalog": "R16 6x170 5,5J ET106 D130",
+    "unit": "шт",
+    "price": 3320,
+    "link": "https://www.autoopt.ru/catalog/115473-disk_kolesnyj_gaz_3302_next_biznes_usilennyj_1100kg_asterro"
+  },
+  {
+    "id": 50,
+    "name": "Диск колесный",
+    "catalog": "64303101012",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=64303101012"
+  },
+  {
+    "id": 51,
+    "name": "Замок двери МАЗ-4370 Н/О левый",
+    "catalog": "304265.004-06",
+    "unit": "шт",
+    "price": 1280,
+    "link": "https://www.autoopt.ru/catalog/644727-zamok_dveri_maz_4370_no_levyj_specmash"
+  },
+  {
+    "id": 52,
+    "name": "Замок двери МАЗ-4370 Н/О правый",
+    "catalog": "304265.004-07",
+    "unit": "шт",
+    "price": 1280,
+    "link": "https://www.autoopt.ru/catalog/644728-zamok_dveri_maz_4370_no_pravyj_specmash"
+  },
+  {
+    "id": 53,
+    "name": "Замок зажигания",
+    "catalog": "3302-3704010",
+    "unit": "шт",
+    "price": 1100,
+    "link": "https://www.autoopt.ru/catalog/243997-zamok_zazhiganija_gaz_3110_3302_2217_5_kontaktov_nika"
+  },
+  {
+    "id": 54,
+    "name": "Зеркало боковое",
+    "catalog": "458.201.030",
+    "unit": "шт",
+    "price": 580,
+    "link": "https://www.autoopt.ru/catalog/646321-zerkalo_bokovoe_kamaz_maz_shirokougolnoe_sfericheskoe_bez_obogreva_dopolnit__235h235_krugovoj_obzor"
+  },
+  {
+    "id": 55,
+    "name": "Зеркало в сборе",
+    "catalog": "203621.020-01",
+    "unit": "уп.",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=203621.020-01"
+  },
+  {
+    "id": 56,
+    "name": "Зеркало заднего вида основное",
+    "catalog": "458201.050-01",
+    "unit": "шт",
+    "price": 1450,
+    "link": "https://www.autoopt.ru/catalog/579195-zerkalo_bokovoe_kamaz_maz_osnovnoe_sfericheskoe_s_podogrevom_24v_443h215"
+  },
+  {
+    "id": 57,
+    "name": "Зеркало наружное широкоугольное",
+    "catalog": "458201.030",
+    "unit": "шт",
+    "price": 1660,
+    "link": "https://www.autoopt.ru/catalog/128899-zerkalo_bokovoe_kamaz_maz_shirokougolnoe_sfera_s_podogrevom_dopolnit__24v_227h227_oao_maz_belog"
+  },
+  {
+    "id": 58,
+    "name": "Зеркало широкоугольное",
+    "catalog": "203621-021-01",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=203621-021-01"
+  },
+  {
+    "id": 59,
+    "name": "Изолента черная ПВХ, автомобильная, холодостойкая",
+    "catalog": "IZC 1920",
+    "unit": "шт",
+    "price": 250,
+    "link": "https://www.autoopt.ru/catalog/805743-izolenta_pvh_chernaja_19x0_16mm_20m_professionalnaja_dlja_avtoservisov_holodostojkaja_terminator"
+  },
+  {
+    "id": 60,
+    "name": "Изолента черная тканевая, 19 мм, 25 м.",
+    "catalog": "IZT 1925-19",
+    "unit": "шт",
+    "price": 520,
+    "link": "https://www.autoopt.ru/catalog/914827-izolenta_tkanevaja_chernaja_19h0_19mm_25m_podkapotnaja_terminator"
+  },
+  {
+    "id": 61,
+    "name": "Камера сгорания отопителя 4ДМ2",
+    "catalog": "24VСб. 812",
+    "unit": "шт",
+    "price": 1290,
+    "link": "https://www.autoopt.ru/catalog/762052-zazhigalka_pepelnica_muljazh_granata_rgd"
+  },
+  {
+    "id": 62,
+    "name": "Камера тормозная передняя",
+    "catalog": "24.3519210-01",
+    "unit": "шт",
+    "price": 2970,
+    "link": "https://www.autoopt.ru/catalog/095367-kamera_tormoza_zil_kamaz_maz_kraz_tip_24_perednego_raaz"
+  },
+  {
+    "id": 63,
+    "name": "Клапан (переключатель) делителя",
+    "catalog": "6430-1703800У",
+    "unit": "шт",
+    "price": 7580,
+    "link": "https://www.autoopt.ru/catalog/504274-klapan_maz_vkljuchenija_delitelja_pnevmaticheskij_oao_maz"
+  },
+  {
+    "id": 64,
+    "name": "Клапан MERCEDES RENAULT КАМАЗ МАЗ ускорительный 8Bar",
+    "catalog": "EBS 23013010",
+    "unit": "шт",
+    "price": 2940,
+    "link": "https://www.autoopt.ru/catalog/992211-klapan_mercedes_renault_kamaz_maz_uskoritelnyj_8bar_ebs"
+  },
+  {
+    "id": 65,
+    "name": "Клапан ЗИЛ, КАМАЗ, МАЗ двухпроводный управления тормозами прицепа с клапаном обрыва",
+    "catalog": "64221-3522010",
+    "unit": "шт",
+    "price": 6775,
+    "link": "https://www.autoopt.ru/catalog/021853-klapan_zil_kamaz_maz_dvuhprovodnyj_upravlenija_tormozami_pricepa_s_klapanom_obryva_belomo"
+  },
+  {
+    "id": 66,
+    "name": "Клапан ускорительный",
+    "catalog": "64221-3518010-10",
+    "unit": "шт",
+    "price": 2970,
+    "link": "https://www.autoopt.ru/catalog/079778-klapan_zil_kamaz_maz_uskoritelnyj_s_krepleniem_pod_shumoglushitel_belomo"
+  },
+  {
+    "id": 67,
+    "name": "Клемма 2,8 мм, мама, с фиксацией",
+    "catalog": "АХ-380",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=АХ-380"
+  },
+  {
+    "id": 68,
+    "name": "Клемма 2,8 мм, папа, с фиксацией",
+    "catalog": "АХ-382",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=АХ-382"
+  },
+  {
+    "id": 69,
+    "name": "Клемма 6,3 мм, мама, с фиксацией",
+    "catalog": "АХ-385",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=АХ-385"
+  },
+  {
+    "id": 70,
+    "name": "Клемма 6,3мм папа с фиксацией",
+    "catalog": "4573738004-02",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=4573738004-02"
+  },
+  {
+    "id": 71,
+    "name": "Клемма под болт М10",
+    "catalog": "ТК1016",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ТК1016"
+  },
+  {
+    "id": 72,
+    "name": "Клемма под болт М6",
+    "catalog": "АХ-388",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=АХ-388"
+  },
+  {
+    "id": 73,
+    "name": "Клемма под болт М8",
+    "catalog": "АХ-390",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=АХ-390"
+  },
+  {
+    "id": 74,
+    "name": "Колесо рулевое МАЗ н/о",
+    "catalog": "5440-3402015-01",
+    "unit": "шт",
+    "price": 6550,
+    "link": "https://www.autoopt.ru/catalog/081197-koleso_rulevoe_maz_no_kvadrat_kryshka_ozaa"
+  },
+  {
+    "id": 75,
+    "name": "Колодка тормозная",
+    "catalog": "54326-3501090",
+    "unit": "шт",
+    "price": 5000,
+    "link": "https://www.autoopt.ru/catalog/613489-kolodki_tormoznye_maz_54326_9919_93866_polupricepa_2sht__160mm_akkor"
+  },
+  {
+    "id": 76,
+    "name": "Колодка тормозная",
+    "catalog": "54326-3501091",
+    "unit": "шт",
+    "price": 5020,
+    "link": "https://www.autoopt.ru/catalog/017325-kolodki_tormoznye_maz_54326_9919_93866_polupricepa_160mm_1sht__taim"
+  },
+  {
+    "id": 77,
+    "name": "Кольца поршневые",
+    "catalog": "53401004002",
+    "unit": "шт",
+    "price": 2100,
+    "link": "https://www.autoopt.ru/catalog/570261-kolca_porshnevye_jamz_534_536_komplekt_na_1_porshen_dp"
+  },
+  {
+    "id": 78,
+    "name": "Кольцо поршневое 94,0 дв. Cummins ISF 2.8L",
+    "catalog": "4309423",
+    "unit": "шт",
+    "price": 1525,
+    "link": "https://www.autoopt.ru/catalog/457971-kolca_porshnevye_gaz_3302_dv_cummins_isf_2_8_d0_00_komplekt_na_porshen_movelex"
+  },
+  {
+    "id": 79,
+    "name": "Кольцо уплотнительное масляного фильтра",
+    "catalog": "840.1012083-10",
+    "unit": "шт",
+    "price": 40,
+    "link": "https://www.autoopt.ru/catalog/142205-prokladka_jamz_kolpaka_f_g_o_m_rd"
+  },
+  {
+    "id": 80,
+    "name": "Комбинация приборов",
+    "catalog": "ЩП 8099",
+    "unit": "шт",
+    "price": 112287,
+    "link": "https://www.autoopt.ru/catalog/649042-kombinacija_priborov_maz_vzjep"
+  },
+  {
+    "id": 81,
+    "name": "Комбинация приборов КАМАЗ, МАЗ",
+    "catalog": "283.3801010",
+    "unit": "шт",
+    "price": 5090,
+    "link": "https://www.autoopt.ru/catalog/150894-kombinacija_priborov_kamaz_maz_analog_281_3801_avtopribor"
+  },
+  {
+    "id": 82,
+    "name": "Компенсатор МАЗ",
+    "catalog": "5340.1213024",
+    "unit": "шт",
+    "price": 4500,
+    "link": "https://www.autoopt.ru/catalog/643594-kompensator_jamz_534_000_4859_337_000_avtodizel"
+  },
+  {
+    "id": 83,
+    "name": "Комплект сцепления",
+    "catalog": "3000950503",
+    "unit": "шт",
+    "price": 12935,
+    "link": "https://www.autoopt.ru/catalog/970736-sceplenie_gaz_3302_biznes_dv_cummins_isf_2_8_v_sbore_sachs"
+  },
+  {
+    "id": 84,
+    "name": "Коробка передач МАЗ-4370 ЗУБРЕНОК",
+    "catalog": "6J7OT",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=6J7OT"
+  },
+  {
+    "id": 85,
+    "name": "Корпус воздушного фильтра МАЗ",
+    "catalog": "238Н-1109010-21",
+    "unit": "шт",
+    "price": 8330,
+    "link": "https://www.autoopt.ru/catalog/021349-filtr_vozdushnyj_maz_64229_5336_korpus_remiz"
+  },
+  {
+    "id": 86,
+    "name": "КПП Газель",
+    "catalog": "С45R92-1700010-01",
+    "unit": "шт",
+    "price": 121405,
+    "link": "https://www.autoopt.ru/catalog/064869-kpp_gazel_next_dv_cummins_4_6t_pod_trosovyj_mehanizm_upravlenija_330nm_evro_5_akkom"
+  },
+  {
+    "id": 87,
+    "name": "КПП ЯМЗ-238ВМ,2381",
+    "catalog": "2381.1700004-02",
+    "unit": "шт",
+    "price": 456500,
+    "link": "https://www.autoopt.ru/catalog/684605-kpp_jamz_2381_lep_scepl__integ_mufta_1840_fl_4_otv_val_50_95mm_an_2381_1700004_02_tmz_"
+  },
+  {
+    "id": 88,
+    "name": "Кран главный тормозной",
+    "catalog": "100-3514008",
+    "unit": "шт",
+    "price": 8680,
+    "link": "https://www.autoopt.ru/catalog/016112-kran_zil_kamaz_maz_tormoznoj_2_h_sekcionnyj_s_rychagom_raaz"
+  },
+  {
+    "id": 89,
+    "name": "Кран главный тормозной",
+    "catalog": "4613190080",
+    "unit": "шт",
+    "price": 2615,
+    "link": "https://www.autoopt.ru/catalog/806633-kran_maz_kamaz_mercedes_tormoznoj_glavnyj_2_h_sekcionnyj_specmash"
+  },
+  {
+    "id": 90,
+    "name": "Кран ЗИЛ, КАМАЗ, МАЗ стояночного тормоза 3-х выводной",
+    "catalog": "100-3537010",
+    "unit": "шт",
+    "price": 5525,
+    "link": "https://www.autoopt.ru/catalog/016098-kran_zil_kamaz_maz_stojanochnogo_tormoza_3_h_vyvodnoj_raaz"
+  },
+  {
+    "id": 91,
+    "name": "Кран МАЗ тормозной 2-х секционный подпедальный Н/О",
+    "catalog": "8090.35.14.100-00",
+    "unit": "шт",
+    "price": 9975,
+    "link": "https://www.autoopt.ru/catalog/650282-kran_maz_tormoznoj_2_h_sekcionnyj_podpedalnyj_no_belomo"
+  },
+  {
+    "id": 92,
+    "name": "Кран отопителя",
+    "catalog": "5336-8101310",
+    "unit": "шт",
+    "price": 650,
+    "link": "https://www.autoopt.ru/catalog/021952-kran_maz_otopitelja"
+  },
+  {
+    "id": 93,
+    "name": "Кран ручного тормоза",
+    "catalog": "9617231007",
+    "unit": "шт",
+    "price": 4750,
+    "link": "https://www.autoopt.ru/catalog/698389-kran_maz_kamaz_6460_stojanochnogo_tormoza_ebs"
+  },
+  {
+    "id": 94,
+    "name": "Кран тормозной",
+    "catalog": "64221-3514008",
+    "unit": "шт",
+    "price": 9200,
+    "link": "https://www.autoopt.ru/catalog/074216-kran_zil_kamaz_maz_tormoznoj_2_h_sekcionnyj_s_rychagom_belomo"
+  },
+  {
+    "id": 95,
+    "name": "Кран тормозной (ручник)",
+    "catalog": "9617231000",
+    "unit": "шт",
+    "price": 2550,
+    "link": "https://www.autoopt.ru/catalog/317465-kran_maz_kamaz_6460_stojanochnogo_tormoza_megapower"
+  },
+  {
+    "id": 96,
+    "name": "Кран тормозной 2-х контурный 8090-3514100",
+    "catalog": "8090-3514100",
+    "unit": "шт",
+    "price": 9975,
+    "link": "https://www.autoopt.ru/catalog/650282-kran_maz_tormoznoj_2_h_sekcionnyj_podpedalnyj_no_belomo"
+  },
+  {
+    "id": 97,
+    "name": "Кран тормозной главный",
+    "catalog": "100-3514010-10",
+    "unit": "шт",
+    "price": 8165,
+    "link": "https://www.autoopt.ru/catalog/043239-kran_zil_kamaz_maz_tormoznoj_2_h_sekcionnyj_raaz"
+  },
+  {
+    "id": 98,
+    "name": "Крестовина",
+    "catalog": "53205-2205030-10",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=53205-2205030-10"
+  },
+  {
+    "id": 99,
+    "name": "Крестовина карданного вала",
+    "catalog": "3302-2201025",
+    "unit": "шт",
+    "price": 680,
+    "link": "https://www.autoopt.ru/catalog/540237-krestovina_gaz_3302_biznes_gazel_next_vala_kardannogo_30h92mm_kernenie_link"
+  },
+  {
+    "id": 100,
+    "name": "Кронштейн МАЗ кабины (пневмоподвеска)",
+    "catalog": "6430-5001720",
+    "unit": "шт",
+    "price": 7970,
+    "link": "https://www.autoopt.ru/catalog/053300-opora_maz_kabiny_pnevmo_podveska_baaz"
+  },
+  {
+    "id": 101,
+    "name": "Кронштейн МАЗ стабилизатора верхний",
+    "catalog": "64221-2906042",
+    "unit": "шт",
+    "price": 4700,
+    "link": "https://www.autoopt.ru/catalog/129202-kronshtejn_maz_stabilizatora_verhnij_oao_maz"
+  },
+  {
+    "id": 102,
+    "name": "Крышка верхняя КПП ЯМЗ",
+    "catalog": "236-1702015-Б2",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=236-1702015-Б2"
+  },
+  {
+    "id": 103,
+    "name": "Крышка ГБЦ МАЗ",
+    "catalog": "536.1003260-10",
+    "unit": "шт",
+    "price": 20610,
+    "link": "https://www.autoopt.ru/catalog/643530-kryshka_klapannaja_jamz_536_avtodizel"
+  },
+  {
+    "id": 104,
+    "name": "Крышка фильтра ГОТоплива, подводка справа (с подогревом и клапаном подкачки)",
+    "catalog": "ST-CX 15030-2",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ST-CX 15030-2"
+  },
+  {
+    "id": 105,
+    "name": "Крышка цепного привода ГАЗ-3302 Бизнес дв.CUMMINS ISF 2.8",
+    "catalog": "5264443-MX",
+    "unit": "шт",
+    "price": 2245,
+    "link": "https://www.autoopt.ru/catalog/276886-kryshka_cepnogo_privoda_gaz_3302_biznes_dv_cummins_isf_2_8_movelex"
+  },
+  {
+    "id": 106,
+    "name": "Маяк проблесковый 12v на магните светодиодный",
+    "catalog": "C12-21M AE",
+    "unit": "шт",
+    "price": 795,
+    "link": "https://www.autoopt.ru/catalog/377204-majak_probleskovyj_12v_na_magnite_avtoelectrica"
+  },
+  {
+    "id": 107,
+    "name": "Маяк проблесковый 24v на магните светодиодный",
+    "catalog": "C24-21M AE",
+    "unit": "шт",
+    "price": 930,
+    "link": "https://www.autoopt.ru/catalog/377207-majak_probleskovyj_24v_na_magnite_avtoelectrica"
+  },
+  {
+    "id": 108,
+    "name": "Металлорукав d=110мм, L=380мм МАЗ-ЕВРО-2 (нержавеющая сталь) МЕТАЛЛОКОМПЕНСАТОР",
+    "catalog": "533602-1203024",
+    "unit": "шт",
+    "price": 650,
+    "link": "https://www.autoopt.ru/catalog/447419-metallorukav_maz_evro_2_d110mm_l360mm_gofra_mvs"
+  },
+  {
+    "id": 109,
+    "name": "Металлорукав с шарниром гофра L-300 диаметр 120 фланец 4 отверстия",
+    "catalog": "65115-1203012-02",
+    "unit": "шт",
+    "price": 4630,
+    "link": "https://www.autoopt.ru/catalog/702698-metallorukav_kamaz_evro_nefaz_v_sbore_l300mm__d115mm_dv_cummins_nerzh__metallokompensator"
+  },
+  {
+    "id": 110,
+    "name": "Механизм МАЗ-64221 запора кабины",
+    "catalog": "64221-5001550",
+    "unit": "шт",
+    "price": 3350,
+    "link": "https://www.autoopt.ru/catalog/130315-mehanizm_maz_64221_zapora_kabiny_oao_maz"
+  },
+  {
+    "id": 111,
+    "name": "Механизм рулевой КАМАЗ-6520",
+    "catalog": "ZF LS 8098.965.212",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ZF LS 8098.965.212"
+  },
+  {
+    "id": 112,
+    "name": "Механизм рулевой МАЗ-5440, 6430 с распределителем в сборе",
+    "catalog": "64221-3400010-10",
+    "unit": "шт",
+    "price": 99500,
+    "link": "https://www.autoopt.ru/catalog/135153-mehanizm_rulevoj_maz_5440_6430_s_raspredelitelem_v_sbore_baaz_"
+  },
+  {
+    "id": 113,
+    "name": "Механизм рулевой с гидроусилителем н/о",
+    "catalog": "ШНКФ.453461.123",
+    "unit": "шт",
+    "price": 59450,
+    "link": "https://www.autoopt.ru/catalog/121345-mehanizm_rulevoj_gaz_2217_s_gidrousilitelem_no_analog_shnkf_453461_120_bagu_"
+  },
+  {
+    "id": 114,
+    "name": "Мост задний ГАЗель Next",
+    "catalog": "A21R22.2400012-10",
+    "unit": "шт",
+    "price": 144690,
+    "link": "https://www.autoopt.ru/catalog/190905-most_zadnij_gazel_next_22__no_barabannye_tormoza_oao_gaz"
+  },
+  {
+    "id": 115,
+    "name": "Мотор отопителя МАЗ, КАМАЗ, ГАЗ 24V",
+    "catalog": "211.3780010",
+    "unit": "шт",
+    "price": 2775,
+    "link": "https://www.autoopt.ru/catalog/039989-motor_otopitelja_maz_kamaz_gaz_24v_avtopribor"
+  },
+  {
+    "id": 116,
+    "name": "Мотор отопителя МАЗ, КАМАЗ, ГАЗ 24V LUZAR",
+    "catalog": "LFH0765",
+    "unit": "шт",
+    "price": 1385,
+    "link": "https://www.autoopt.ru/catalog/887433-motor_otopitelja_maz_kamaz_gaz_24v_luzar"
+  },
+  {
+    "id": 117,
+    "name": "Мотор стеклоочистителя",
+    "catalog": "432000044",
+    "unit": "шт",
+    "price": 3960,
+    "link": "https://www.autoopt.ru/catalog/508379-motor_reduktor_stekloochistitelja_maz_6430_544010_megapower"
+  },
+  {
+    "id": 118,
+    "name": "Мультипликатор ямз-238",
+    "catalog": "239в-1721005-03",
+    "unit": "шт",
+    "price": 175700,
+    "link": "https://www.autoopt.ru/catalog/721292-demultiplikator_jamz_2381_238vm_70__s_prostavkoj_flanec_4_otverstija_pod_jelektronnyj_privod_tmz"
+  },
+  {
+    "id": 119,
+    "name": "Муфта конусная д 10мм (латунь)",
+    "catalog": "864816",
+    "unit": "шт",
+    "price": 30,
+    "link": "https://www.autoopt.ru/catalog/014629-mufta_konusnaja_d10mm_latun_bochonok"
+  },
+  {
+    "id": 120,
+    "name": "Муфта конусная д 12мм (латунь)",
+    "catalog": "864817",
+    "unit": "шт",
+    "price": 30,
+    "link": "https://www.autoopt.ru/catalog/014636-mufta_konusnaja_d12mm_latun_bochonok"
+  },
+  {
+    "id": 121,
+    "name": "Муфта конусная д 14мм (латунь)",
+    "catalog": "864818",
+    "unit": "шт",
+    "price": 35,
+    "link": "https://www.autoopt.ru/catalog/040845-mufta_konusnaja_d14mm_latun_bochonok"
+  },
+  {
+    "id": 122,
+    "name": "Муфта конусная д 16мм (латунь)",
+    "catalog": "864819-01",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=864819-01"
+  },
+  {
+    "id": 123,
+    "name": "Муфта конусная Д 6мм (латунь)",
+    "catalog": "864846",
+    "unit": "шт",
+    "price": 20,
+    "link": "https://www.autoopt.ru/catalog/014635-mufta_konusnaja_d6mm_latun_bochonok"
+  },
+  {
+    "id": 124,
+    "name": "Муфта конусная д 8мм (латунь)",
+    "catalog": "864815",
+    "unit": "шт",
+    "price": 25,
+    "link": "https://www.autoopt.ru/catalog/014634-mufta_konusnaja_d8mm_latun_bochonok"
+  },
+  {
+    "id": 125,
+    "name": "Муфта ЯМЗ привода вентилятора d=650мм дв.536",
+    "catalog": "536.1308010",
+    "unit": "шт",
+    "price": 11510,
+    "link": "https://www.autoopt.ru/catalog/222595-ventiljator_jamz_536_serija_800__kryl__650mm_s_vjazkostnoj_muftoj_v_sbore_pramo"
+  },
+  {
+    "id": 126,
+    "name": "Нагнетатель воздуха ПЖД-16/18ЖД ЭЛТРА-ТЕРМО",
+    "catalog": "1.13.044.290",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=1.13.044.290"
+  },
+  {
+    "id": 127,
+    "name": "Наконечник Газель в сб.",
+    "catalog": "3302-3414056",
+    "unit": "шт",
+    "price": 551,
+    "link": "https://www.autoopt.ru/catalog/744581-nakonechnik_rulevoj_tjagi_gaz_3302_2217_v_sbore_pravyj_pramo"
+  },
+  {
+    "id": 128,
+    "name": "Направляющая цепи ГРМ Cummins",
+    "catalog": "5267973",
+    "unit": "шт",
+    "price": 213,
+    "link": "https://www.autoopt.ru/catalog/885529-uspokoitel_cepi_foton_dv_cummins_isf_2_8_motornoj_levyj_napravljajuschaja_oe"
+  },
+  {
+    "id": 129,
+    "name": "Направляющая цепи ГРМ Cummins",
+    "catalog": "5269767",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=5269767"
+  },
+  {
+    "id": 130,
+    "name": "Насос водяной КАМАЗ, ПАЗ дв.CUMMINS ISBe, ISDe,4BT,6BT стальная крыльчатка",
+    "catalog": "3286278",
+    "unit": "шт",
+    "price": 3400,
+    "link": "https://www.autoopt.ru/catalog/732066-nasos_vodjanoj_kamaz_paz_dv_cummins_4bt_6bt_stalnaja_krylchatka_movelex"
+  },
+  {
+    "id": 131,
+    "name": "Насос водяной ЯМЗ Н/О",
+    "catalog": "236-1307010-Б",
+    "unit": "шт",
+    "price": 11500,
+    "link": "https://www.autoopt.ru/catalog/379278-nasos_vodjanoj_jamz_no_megapower"
+  },
+  {
+    "id": 132,
+    "name": "Насос водяной ЯМЗ-536",
+    "catalog": "536.1307010-20",
+    "unit": "шт",
+    "price": 4540,
+    "link": "https://www.autoopt.ru/catalog/379280-nasos_vodjanoj_jamz_534_536_megapower"
+  },
+  {
+    "id": 133,
+    "name": "Насос гидроусилителя дв.Cummins isf 2.8",
+    "catalog": "340-11-003",
+    "unit": "шт",
+    "price": 9115,
+    "link": "https://www.autoopt.ru/catalog/591843-nasos_gidrousilitelja_gaz_3302_dv_cummins_isf_2_8_megapower"
+  },
+  {
+    "id": 134,
+    "name": "Насос ГУР",
+    "catalog": "5336-3407010",
+    "unit": "шт",
+    "price": 25280,
+    "link": "https://www.autoopt.ru/catalog/019709-nasos_gidrousilitelja_maz_v_sbore_konnor"
+  },
+  {
+    "id": 135,
+    "name": "Насос ГУР ЯМЗ 536",
+    "catalog": "536.3407010",
+    "unit": "шт",
+    "price": 6342,
+    "link": "https://www.autoopt.ru/catalog/440116-nasos_gidrousilitelja_jamz_536_pramo"
+  },
+  {
+    "id": 136,
+    "name": "Насос механизма опрокидывания кабины КАМАЗ и подъема колеса запасного ручной",
+    "catalog": "4310-5004010-01",
+    "unit": "шт",
+    "price": 41740,
+    "link": "https://www.autoopt.ru/catalog/647799-nasos_mehanizma_oprokidyvanija_kabiny_kamaz_i_podema_kolesa_zapasnogo_ruchnoj_gidroprivod_"
+  },
+  {
+    "id": 137,
+    "name": "Насос механизма опрокидывания кабины МАЗ",
+    "catalog": "182.5004010-11",
+    "unit": "шт",
+    "price": 22100,
+    "link": "https://www.autoopt.ru/catalog/061970-nasos_mehanizma_oprokidyvanija_kabiny_maz_bagu_"
+  },
+  {
+    "id": 138,
+    "name": "Насос механизма опрокидывания кабины МАЗ",
+    "catalog": "5440-5004010",
+    "unit": "шт",
+    "price": 9000,
+    "link": "https://www.autoopt.ru/catalog/892879-nasos_mehanizma_oprokidyvanija_kabiny_maz_megapower"
+  },
+  {
+    "id": 139,
+    "name": "Насос отопителя дополнительный",
+    "catalog": "89.3780(24в)",
+    "unit": "шт",
+    "price": 4357,
+    "link": "https://www.autoopt.ru/catalog/995479-nasos_jelektricheskij_zhidkostnogo_podogrevatelja_24v_kjemz"
+  },
+  {
+    "id": 140,
+    "name": "Насос топливный высокого давления CUMMINS ISF 2.8",
+    "catalog": "4990601F",
+    "unit": "шт",
+    "price": 75350,
+    "link": "https://www.autoopt.ru/catalog/502056-nasos_toplivnyj_gaz_3302_dv_cummins_isf_2_8_vysokogo_davlenija_oao_gaz"
+  },
+  {
+    "id": 141,
+    "name": "Насос топливный КАМАЗ высокого давления дв.CUMMINS",
+    "catalog": "445020150",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=445020150"
+  },
+  {
+    "id": 142,
+    "name": "Натяжитель ремня КАМАЗ, ПАЗ дв.CUMMINS",
+    "catalog": "3937553",
+    "unit": "шт",
+    "price": 2550,
+    "link": "https://www.autoopt.ru/catalog/732067-natjazhitel_remnja_kamaz_paz_dv_cummins_6bt_shirina_rolika_40mm_movelex"
+  },
+  {
+    "id": 143,
+    "name": "Натяжитель цепи ГРМ Cummins",
+    "catalog": "MTS 0375",
+    "unit": "шт",
+    "price": 1620,
+    "link": "https://www.autoopt.ru/catalog/581642-natjazhitel_cepi_gaz_3302_dv_cummins_isf_2_8_movelex"
+  },
+  {
+    "id": 144,
+    "name": "Осушитель воздуха МАЗ, КАМАЗ, ПАЗ(АВРОРА), ЛИАЗ (24V, 3 выхода)",
+    "catalog": "432 410 102 7/0",
+    "unit": "шт",
+    "price": 3627,
+    "link": "https://www.autoopt.ru/catalog/827125-osushitel_vozduha_maz_kamaz_pazavrora_liaz_24v__3_vyhoda_fenox"
+  },
+  {
+    "id": 145,
+    "name": "Ось МАЗ натяжная стеклоподъемника",
+    "catalog": "5336-6104082",
+    "unit": "шт",
+    "price": 220,
+    "link": "https://www.autoopt.ru/catalog/133916-os_maz_natjazhnaja_steklopodemnika_oao_maz"
+  },
+  {
+    "id": 146,
+    "name": "Отопитель МАЗ в сборе",
+    "catalog": "64221-8101010",
+    "unit": "шт",
+    "price": 22580,
+    "link": "https://www.autoopt.ru/catalog/177147-otopitel_maz_v_sbore_prema"
+  },
+  {
+    "id": 147,
+    "name": "Отопитель МАЗ-4370 в сборе",
+    "catalog": "4370-8101010",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=4370-8101010"
+  },
+  {
+    "id": 148,
+    "name": "Охладитель КАМАЗ-6520,6460,65201,63502 наддувочного воздуха",
+    "catalog": "6520-1172010",
+    "unit": "шт",
+    "price": 63680,
+    "link": "https://www.autoopt.ru/catalog/607334-ohladitel_kamaz_6520_6460_65201_63502_nadduvochnogo_vozduha_shaaz"
+  },
+  {
+    "id": 149,
+    "name": "Охладитель МАЗ-437030,437130,533731-346, АМАЗ-256 наддувочного воздуха алюминиевый",
+    "catalog": "437030-1323010-063",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=437030-1323010-063"
+  },
+  {
+    "id": 150,
+    "name": "Охладитель МАЗ-533603,5440,555102,551605,630305,642205 наддувочного воздуха алюминиевый",
+    "catalog": "642290-1323010",
+    "unit": "шт",
+    "price": 36200,
+    "link": "https://www.autoopt.ru/catalog/056258-ohladitel_maz_533603_5440_555102_551605_630305_642205_nadduv_vozd_aljum_jamz_236ne2_be2_238de2_taspo"
+  },
+  {
+    "id": 151,
+    "name": "Охладитель МАЗ-534004,5516А5, наддувочного воздуха алюминиевый (ЯМЗ-6561.10, 6562.10,6582, Д-263.1 Евро3",
+    "catalog": "6501В5А-1172010",
+    "unit": "шт",
+    "price": 44650,
+    "link": "https://www.autoopt.ru/catalog/912833-ohladitel_maz_5440v5_6312_6501v9_nadduvnogo_vozduha_aljuminievyj_dv_jamz_536_651_evro_4_shaaz"
+  },
+  {
+    "id": 152,
+    "name": "Палец вала стабилизатора",
+    "catalog": "54321-291634",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=54321-291634"
+  },
+  {
+    "id": 153,
+    "name": "Панель брызговика колеса переднего левая МАЗ",
+    "catalog": "6312-8403041-011",
+    "unit": "шт",
+    "price": 21245,
+    "link": "https://www.autoopt.ru/catalog/606407-panel_maz_bryzgovika_kryla_perednego_levaja_ozaa"
+  },
+  {
+    "id": 154,
+    "name": "Патрубок МАЗ радиатора нижний (L=365мм, d=70) силикон",
+    "catalog": "5432А5-1303260",
+    "unit": "шт",
+    "price": 1370,
+    "link": "https://www.autoopt.ru/catalog/849212-patrubok_maz_radiatora_nizhnij_l365mm__d70_silikon_specmash"
+  },
+  {
+    "id": 155,
+    "name": "Патрубок МАЗ радиатора угловой (L=280мм, d=60) силикон",
+    "catalog": "533632-1303251",
+    "unit": "шт",
+    "price": 455,
+    "link": "https://www.autoopt.ru/catalog/618454-patrubok_maz_radiatora_uglovoj_l280mm__d60_ipt_volzhskij"
+  },
+  {
+    "id": 156,
+    "name": "Патрубок охладителя МАЗ 90*205мм",
+    "catalog": "54401-1323094",
+    "unit": "шт",
+    "price": 420,
+    "link": "https://www.autoopt.ru/catalog/688363-shlang_maz_ohlazhdenija_nadduvnogo_vozduha_l205mm__d90"
+  },
+  {
+    "id": 157,
+    "name": "ПГУ МАЗ, КАМАЗ, ПАЗ (VG 3208) со штоком KNORR-BREMSE",
+    "catalog": "VG 3268 (3208)",
+    "unit": "шт",
+    "price": 5670,
+    "link": "https://www.autoopt.ru/catalog/668164-pgu_maz_kamaz_paz_vg_3208__so_shtokom_megapower"
+  },
+  {
+    "id": 158,
+    "name": "ПГУ МАЗ, КАМАЗ, ПАЗ, ЛИАЗ WABCO",
+    "catalog": "9700514370",
+    "unit": "шт",
+    "price": 3345,
+    "link": "https://www.autoopt.ru/catalog/399858-pgu_maz_kamaz_paz_liaz_pramo"
+  },
+  {
+    "id": 159,
+    "name": "ПГУ НЕФАЗ WABCO",
+    "catalog": "9700512047",
+    "unit": "шт",
+    "price": 6350,
+    "link": "https://www.autoopt.ru/catalog/506915-pgu_kamaz_6460_6520_s_kpp_zf_megapower"
+  },
+  {
+    "id": 160,
+    "name": "Педаль акселератора КАМАЗ-ЕВРО-4 электронная (дв.CUMMINS)",
+    "catalog": "61000N0-61SD-00",
+    "unit": "шт",
+    "price": 11490,
+    "link": "https://www.autoopt.ru/catalog/782865-pedal_akseleratora_kamaz_evro_4_jelektronnaja_dv_cummins_kongsberg"
+  },
+  {
+    "id": 161,
+    "name": "Педаль газа электронная",
+    "catalog": "ФР8122-Д",
+    "unit": "шт",
+    "price": 9580,
+    "link": "https://www.autoopt.ru/catalog/147607-pedal_akseleratora_maz_6430a_5440a_4370_s_kronshtejnom_pod_jelektroprivod_dv_jamz_man_v_sbore_vzjep"
+  },
+  {
+    "id": 162,
+    "name": "Переключатель поворотов",
+    "catalog": "6612.3709",
+    "unit": "шт",
+    "price": 2650,
+    "link": "https://www.autoopt.ru/catalog/016689-perekljuchatel_podrulevoj_gaz_3302_3307_ukazatelej_povorota_avtoarmatura"
+  },
+  {
+    "id": 163,
+    "name": "Переключатель подрулевой ЗИЛ, МАЗ, УРАЛ, КРАЗ стеклоочистителя",
+    "catalog": "4002.3709",
+    "unit": "шт",
+    "price": 2600,
+    "link": "https://www.autoopt.ru/catalog/016713-perekljuchatel_podrulevoj_zil_maz_ural_kraz_stekloochistitelja_avtoarmatura"
+  },
+  {
+    "id": 164,
+    "name": "Переключатель подрулевой ЗИЛ, МАЗ, УРАЛ, КРАЗ, КАЗ указателей поворота",
+    "catalog": "6602.3709",
+    "unit": "шт",
+    "price": 2790,
+    "link": "https://www.autoopt.ru/catalog/016691-perekljuchatel_podrulevoj_zil_maz_ural_kraz_kaz_ukazatelej_povorota_avtoarmatura"
+  },
+  {
+    "id": 165,
+    "name": "Пневмогидроусилитель КАМАЗ Каменс КПП ZF",
+    "catalog": "11.1602410-40",
+    "unit": "шт",
+    "price": 19000,
+    "link": "https://www.autoopt.ru/catalog/028656-pgu_kamaz_65115_65116_65117_65111_6540_maz_s_kpp_zf_aljuminievyj_korpus_volchansk_"
+  },
+  {
+    "id": 166,
+    "name": "Пневмоэлемент",
+    "catalog": "6430-6807008-001",
+    "unit": "шт",
+    "price": 5050,
+    "link": "https://www.autoopt.ru/catalog/878767-pnevmogidrojelement_maz_podressorivanija_sidenja_megapower"
+  },
+  {
+    "id": 167,
+    "name": "Подножка МАЗ левая с крылом Н/О",
+    "catalog": "63128405025",
+    "unit": "шт",
+    "price": 25060,
+    "link": "https://www.autoopt.ru/catalog/148312-podnozhka_maz_levaja_s_krylom_no_ozaa"
+  },
+  {
+    "id": 168,
+    "name": "Подножка МАЗ правая с крылом Н/О",
+    "catalog": "63128405024",
+    "unit": "шт",
+    "price": 25060,
+    "link": "https://www.autoopt.ru/catalog/148311-podnozhka_maz_pravaja_s_krylom_no_ozaa"
+  },
+  {
+    "id": 169,
+    "name": "Подогреватель предпусковой (с монтажным комплектом)",
+    "catalog": "14ТС-10-БЧ24В",
+    "unit": "шт",
+    "price": 49920,
+    "link": "https://www.autoopt.ru/catalog/751520-podogrevatel_predpuskovoj_dizelnyj_kamaz_maz_14ts_10_24v_14_5kvt_mini_gp_s_mk_advers"
+  },
+  {
+    "id": 170,
+    "name": "Подогреватель предпусковой КАМАЗ, МАЗ, ЗИЛ, КРАЗ, УРАЛ 24V 15кВт в сборе",
+    "catalog": "15.8106.-15СБ",
+    "unit": "шт",
+    "price": 12240,
+    "link": "https://www.autoopt.ru/catalog/701554-nasos_toplivnyj_pzhd_15_8106_05151_8106_05_15_8106_15sb_inta_centr"
+  },
+  {
+    "id": 171,
+    "name": "Подставка МАЗ под сидение водителя",
+    "catalog": "6430-6807006-010",
+    "unit": "шт",
+    "price": 32665,
+    "link": "https://www.autoopt.ru/catalog/101915-podstavka_maz_pod_sidene_voditelja_bez_sidenja_ozaa"
+  },
+  {
+    "id": 172,
+    "name": "Подшипник",
+    "catalog": "6У-7307",
+    "unit": "шт",
+    "price": 1205,
+    "link": "https://www.autoopt.ru/catalog/121562-podshipnik_stupicy_gaz_3302_perednej_vnutrennij_volzhskij_standart"
+  },
+  {
+    "id": 173,
+    "name": "Подшипник внутренний передней ступицы",
+    "catalog": "ВТ1-0573",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ВТ1-0573"
+  },
+  {
+    "id": 174,
+    "name": "Подшипник задней ступицы",
+    "catalog": "6-7520А",
+    "unit": "шт",
+    "price": 2400,
+    "link": "https://www.autoopt.ru/catalog/284557-podshipnik_stupicy_kamaz_6520_65806_maz_zadnej_vnutrennij_movelex"
+  },
+  {
+    "id": 175,
+    "name": "Подшипник наружный в сборе",
+    "catalog": "6-7305АШ",
+    "unit": "шт",
+    "price": 650,
+    "link": "https://www.autoopt.ru/catalog/836746-podshipnik_stupicy_gaz_3302_2217_perednej_komplekt_movelex"
+  },
+  {
+    "id": 176,
+    "name": "Подшипник наружный передней ступицы",
+    "catalog": "ВТ1-0561",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=ВТ1-0561"
+  },
+  {
+    "id": 177,
+    "name": "Подшипник передней ступицы внутренний",
+    "catalog": "7613А1",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=7613А1"
+  },
+  {
+    "id": 178,
+    "name": "Подшипник передней ступицы наружный",
+    "catalog": "7610А1",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=7610А1"
+  },
+  {
+    "id": 179,
+    "name": "Подшипник передней ступицы(внутренний)",
+    "catalog": "6-7612А",
+    "unit": "шт",
+    "price": 3660,
+    "link": "https://www.autoopt.ru/catalog/120704-podshipnik_stupicy_maz_kamaz_5325_kraz_250_volzhskij_standart"
+  },
+  {
+    "id": 180,
+    "name": "Подшипник передней ступицы(внутренний)",
+    "catalog": "6-7614А",
+    "unit": "шт",
+    "price": 2050,
+    "link": "https://www.autoopt.ru/catalog/560699-podshipnik_stupicy_maz_5440_6430_kraz_250_vnutrennij_movelex"
+  },
+  {
+    "id": 181,
+    "name": "Подшипник передней ступицы(наружный) 6-7610А",
+    "catalog": "6-7610А",
+    "unit": "шт",
+    "price": 770,
+    "link": "https://www.autoopt.ru/catalog/016875-podshipnik_stupicy_kamaz_maz_gaz_33104_valdaj_gazon_next_paz_vektor_next"
+  },
+  {
+    "id": 182,
+    "name": "Подшипник передней ступицы(наружный) 6-7610АШ2",
+    "catalog": "6-7610АШ2",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=6-7610АШ2"
+  },
+  {
+    "id": 183,
+    "name": "Подшипник роликовый конический ступицы заднего моста",
+    "catalog": "6-7520А",
+    "unit": "шт",
+    "price": 2400,
+    "link": "https://www.autoopt.ru/catalog/284557-podshipnik_stupicy_kamaz_6520_65806_maz_zadnej_vnutrennij_movelex"
+  },
+  {
+    "id": 184,
+    "name": "Подшипник ступицы задней внутренний",
+    "catalog": "257535603110",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=257535603110"
+  },
+  {
+    "id": 185,
+    "name": "Подшипник ступицы колеса наружный",
+    "catalog": "6-7509А",
+    "unit": "шт",
+    "price": 325,
+    "link": "https://www.autoopt.ru/catalog/016872-podshipnik_stupicy_gaz_3302_zadnej_naruzhnyj"
+  },
+  {
+    "id": 186,
+    "name": "Подшипник ступицы передней",
+    "catalog": "A21R23.3103145",
+    "unit": "шт",
+    "price": 2390,
+    "link": "https://www.autoopt.ru/catalog/540240-podshipnik_stupicy_gazel_next_perednej_link"
+  },
+  {
+    "id": 187,
+    "name": "Полиамидный 8-прядный фал АзотХимФортис 8мм (200м)",
+    "catalog": "70975",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=70975"
+  },
+  {
+    "id": 188,
+    "name": "Привод вентилятора ЯМЗ-536",
+    "catalog": "536.1308011-10",
+    "unit": "шт",
+    "price": 10690,
+    "link": "https://www.autoopt.ru/catalog/643520-privod_ventiljatora_jamz_536_avtodizel"
+  },
+  {
+    "id": 189,
+    "name": "Привод вентилятора ЯМЗ-656 в сборе с гидромуфтой",
+    "catalog": "656.1308011",
+    "unit": "шт",
+    "price": 51620,
+    "link": "https://www.autoopt.ru/catalog/253098-privod_ventiljatora_jamz_656_s_gidromuftoj_v_sbore_avtodizel"
+  },
+  {
+    "id": 190,
+    "name": "Привод стеклоочистителя МАЗ",
+    "catalog": "6430-5205500-10",
+    "unit": "шт",
+    "price": 4420,
+    "link": "https://www.autoopt.ru/catalog/508398-trapecija_stekloochistitelja_maz_6430_5440_megapower"
+  },
+  {
+    "id": 191,
+    "name": "Прокладка ГАЗ-3302 дв.CUMMINS ISF 2.8 теплообменника",
+    "catalog": "5262903",
+    "unit": "шт",
+    "price": 220,
+    "link": "https://www.autoopt.ru/catalog/247495-prokladka_gaz_3302_dv_cummins_isf_2_8_teploobmennika_espra"
+  },
+  {
+    "id": 192,
+    "name": "Прокладка головки блока ЯМЗ-236НЕ, БЕ, НЕ2, БЕ2,6563 металлическая с РТИ в сборе (на головку)",
+    "catalog": "236Д-1003210",
+    "unit": "шт",
+    "price": 1075,
+    "link": "https://www.autoopt.ru/catalog/147122-prokladka_golovki_bloka_jamz_236ne_be_ne2_be2_6563_metallicheskaja_s_rti_v_sbore_na_golovku_rd"
+  },
+  {
+    "id": 193,
+    "name": "Прокладка головки блока ЯМЗ-536",
+    "catalog": "536.1003206-10",
+    "unit": "шт",
+    "price": 6980,
+    "link": "https://www.autoopt.ru/catalog/643528-prokladka_golovki_bloka_jamz_536_metall_avtodizel"
+  },
+  {
+    "id": 194,
+    "name": "Прокладка двигателя ЯМЗ-236М2, Б, БЕ, Н, ДК комплект полный",
+    "catalog": "236-3906004-10",
+    "unit": "к-т",
+    "price": 2465,
+    "link": "https://www.autoopt.ru/catalog/846533-prokladka_dvigatelja_jamz_236m2_b_be_n_dk_komplekt_polnyj_rd"
+  },
+  {
+    "id": 195,
+    "name": "Прокладка двигателя ЯМЗ-536 комплект полный",
+    "catalog": "5360-2000005-05",
+    "unit": "шт",
+    "price": 12230,
+    "link": "https://www.autoopt.ru/catalog/115644-prokladka_dvigatelja_jamz_536_komplekt_polnyj_40_poz_95_det__remkomplekt"
+  },
+  {
+    "id": 196,
+    "name": "Прокладка клапанной крышки ЯМЗ-236",
+    "catalog": "236-1003270",
+    "unit": "шт",
+    "price": 160,
+    "link": "https://www.autoopt.ru/catalog/746119-prokladka_kryshki_klapannoj_jamz_236_mbs_zelenaja_avtoresurs"
+  },
+  {
+    "id": 197,
+    "name": "Радиатор",
+    "catalog": "5551А2-1301010-001",
+    "unit": "шт",
+    "price": 110998,
+    "link": "https://www.autoopt.ru/catalog/141258-radiator_maz_5551a2_mednyj_3_h_rjadnyj_dv_jamz_evro_3_shaaz"
+  },
+  {
+    "id": 198,
+    "name": "Радиатор КАМАЗ-5490,65206 дв.Daimler OM457LA, КАМАЗ-6580 дв.Cummins ISG12 алюм.",
+    "catalog": "5490-1301010",
+    "unit": "шт",
+    "price": 63375,
+    "link": "https://www.autoopt.ru/catalog/244607-radiator_kamaz_54901_ohlazhdenija_nh785001_luzar"
+  },
+  {
+    "id": 199,
+    "name": "Радиатор отопителя КАМАЗ медный 4-х рядный",
+    "catalog": "5320-8101060-04",
+    "unit": "шт",
+    "price": 11500,
+    "link": "https://www.autoopt.ru/catalog/017155-radiator_otopitelja_kamaz_mednyj_4_h_rjadnyj_shaaz"
+  },
+  {
+    "id": 200,
+    "name": "Радиатор отопителя МАЗ-5440",
+    "catalog": "5440-8101060-69",
+    "unit": "шт",
+    "price": 2900,
+    "link": "https://www.autoopt.ru/catalog/289375-radiator_otopitelja_maz_5440_6430_evro_3_megapower"
+  },
+  {
+    "id": 201,
+    "name": "Радиатор охлаждения",
+    "catalog": "6501В5А-1301010",
+    "unit": "шт",
+    "price": 37500,
+    "link": "https://www.autoopt.ru/catalog/931861-radiator_maz_5440v5_6312v5_aljuminievyj_dv_jamz_536_evro_4_pramo"
+  },
+  {
+    "id": 202,
+    "name": "Радиатор охлаждения ГАЗ дв.Cummins ISF 2.8L",
+    "catalog": "LRC 03028B",
+    "unit": "шт",
+    "price": 10500,
+    "link": "https://www.autoopt.ru/catalog/262036-radiator_gaz_3302_biznes_aljuminievyj__dv_cummins_megapower"
+  },
+  {
+    "id": 203,
+    "name": "Регулировочный рычаг",
+    "catalog": "103-3501136-10",
+    "unit": "шт",
+    "price": 4760,
+    "link": "https://www.autoopt.ru/catalog/784935-rychag_tormoza_regulirovochnyj_maz_6430_amaz_paz_melkij_shlic_megapower"
+  },
+  {
+    "id": 204,
+    "name": "Регулятор тормозных сил",
+    "catalog": "100-3533010",
+    "unit": "шт",
+    "price": 6660,
+    "link": "https://www.autoopt.ru/catalog/017210-reguljator_tormoznyh_sil_zil_kamaz_maz_raaz"
+  },
+  {
+    "id": 205,
+    "name": "Регулятор тормозных сил",
+    "catalog": "64221-3533010",
+    "unit": "шт",
+    "price": 6500,
+    "link": "https://www.autoopt.ru/catalog/096737-reguljator_tormoznyh_sil_zil_kamaz_maz_belomo"
+  },
+  {
+    "id": 206,
+    "name": "Реле поворотов 24в",
+    "catalog": "РСП-951А",
+    "unit": "шт",
+    "price": 550,
+    "link": "https://www.autoopt.ru/catalog/116777-rele_povorota_maz_kamaz_24v_relejnaja_kompanija"
+  },
+  {
+    "id": 207,
+    "name": "Реле стеклоочистителя 24в",
+    "catalog": "727.3777",
+    "unit": "шт",
+    "price": 430,
+    "link": "https://www.autoopt.ru/catalog/844293-rele_stekloochistitelja_maz_24v_jenergomash"
+  },
+  {
+    "id": 208,
+    "name": "Рем комплект полиамидной трубки д 10мм",
+    "catalog": "53203500910",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=53203500910"
+  },
+  {
+    "id": 209,
+    "name": "Рем комплект полиамидной трубки д 12мм",
+    "catalog": "3500912",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=3500912"
+  },
+  {
+    "id": 210,
+    "name": "Рем комплект полиамидной трубки д 6мм",
+    "catalog": "5320350098010",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=5320350098010"
+  },
+  {
+    "id": 211,
+    "name": "Рем комплект полиамидной трубки д 8мм",
+    "catalog": "53203500980",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=53203500980"
+  },
+  {
+    "id": 212,
+    "name": "Рем комплект шкворня",
+    "catalog": "885433190709",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=885433190709"
+  },
+  {
+    "id": 213,
+    "name": "Ремень генератора",
+    "catalog": "8PK1418",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=8PK1418"
+  },
+  {
+    "id": 214,
+    "name": "Ремень привода вентилятора",
+    "catalog": "5340.1308170",
+    "unit": "шт",
+    "price": 830,
+    "link": "https://www.autoopt.ru/catalog/869413-remen_jamz_534_ventiljatora_megapower"
+  },
+  {
+    "id": 215,
+    "name": "Ремень привода генератора",
+    "catalog": "5340-3701170-10",
+    "unit": "шт",
+    "price": 550,
+    "link": "https://www.autoopt.ru/catalog/869402-remen_jamz_534_generatora_megapower"
+  },
+  {
+    "id": 216,
+    "name": "Ручка двери наружная с ключами (к-т)",
+    "catalog": "945.025.20.00.00-77",
+    "unit": "к-т",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=945.025.20.00.00-77"
+  },
+  {
+    "id": 217,
+    "name": "Ручка МАЗ двери наружная Н/О комплект (левая и правая) с ключами",
+    "catalog": "454823.016",
+    "unit": "к-т",
+    "price": 5445,
+    "link": "https://www.autoopt.ru/catalog/909352-ruchka_maz_dveri_naruzhnaja_no_komplekt_levaja_i_pravaja_s_kljuchami_radiovolna"
+  },
+  {
+    "id": 218,
+    "name": "Ручка МАЗ стеклоподъёмника в сб.",
+    "catalog": "64221-6104064",
+    "unit": "шт",
+    "price": 565,
+    "link": "https://www.autoopt.ru/catalog/620017-ruchka_maz_steklopodemnika_ozaa"
+  },
+  {
+    "id": 219,
+    "name": "Ручка на рычаг кпп МАЗ",
+    "catalog": "4370-1703301",
+    "unit": "шт",
+    "price": 850,
+    "link": "https://www.autoopt.ru/catalog/719833-ruchka_na_rychag_kpp_maz_4370_ozaa"
+  },
+  {
+    "id": 220,
+    "name": "Ручка на рычаг КПП МАЗ",
+    "catalog": "64221-1703301-020",
+    "unit": "шт",
+    "price": 755,
+    "link": "https://www.autoopt.ru/catalog/510836-ruchka_na_rychag_kpp_maz_64221_ozaa"
+  },
+  {
+    "id": 221,
+    "name": "Рычаг КАМАЗ запора борта левый в сборе",
+    "catalog": "53215850502973",
+    "unit": "шт",
+    "price": 4620,
+    "link": "https://www.autoopt.ru/catalog/690581-rychag_kamaz_zapora_borta_levyj_v_sbore_oao_kamaz"
+  },
+  {
+    "id": 222,
+    "name": "Рычаг КАМАЗ запора борта правый в сборе",
+    "catalog": "53215-8505028-73",
+    "unit": "шт",
+    "price": 5080,
+    "link": "https://www.autoopt.ru/catalog/690582-rychag_kamaz_zapora_borta_pravyj_v_sbore_oao_kamaz"
+  },
+  {
+    "id": 223,
+    "name": "Рычаг МАЗ регулировочный (трещотка) левый (мелкий шлиц)",
+    "catalog": "64226-3502136-010",
+    "unit": "шт",
+    "price": 10765,
+    "link": "https://www.autoopt.ru/catalog/149688-rychag_tormoza_regulirovochnyj_maz_avtomat_levyj_uzkij_shlic_jevolv__taim"
+  },
+  {
+    "id": 224,
+    "name": "Рычаг стеклоочистителя",
+    "catalog": "64221-5205150",
+    "unit": "шт",
+    "price": 2600,
+    "link": "https://www.autoopt.ru/catalog/128889-rychag_stekloochistitelja_maz_5335_550mm_krjuchok_3h8_oao_maz"
+  },
+  {
+    "id": 225,
+    "name": "Рычаг тормоза регулировочный МАЗ автомат правый узкий шлиц",
+    "catalog": "64226-3502135-010",
+    "unit": "шт",
+    "price": 10785,
+    "link": "https://www.autoopt.ru/catalog/149701-rychag_tormoza_regulirovochnyj_maz_avtomat_pravyj_uzkij_shlic_jevolv__taim"
+  },
+  {
+    "id": 226,
+    "name": "Сальник задней ступицы",
+    "catalog": "1.2-120х150",
+    "unit": "шт",
+    "price": 630,
+    "link": "https://www.autoopt.ru/catalog/672131-salnik_maz_stupicy_zadnej_2_2_120h150_1_belarusrezinotehnika"
+  },
+  {
+    "id": 227,
+    "name": "Сальник коленвала задний дв.Cummins ISF 2.8L",
+    "catalog": "3693669",
+    "unit": "шт",
+    "price": 1540,
+    "link": "https://www.autoopt.ru/catalog/298486-salnik_kolenvala_foton_zadnij_oe"
+  },
+  {
+    "id": 228,
+    "name": "Сальник коленвала передний дв.Cummins ISF 2.8L",
+    "catalog": "5265266",
+    "unit": "шт",
+    "price": 309,
+    "link": "https://www.autoopt.ru/catalog/946387-salnik_kolenvala_gaz_3302_dv_cummins_isf_2_8_perednij_foton"
+  },
+  {
+    "id": 229,
+    "name": "Сальник МАЗ хвостовика 2.2-85х110х12",
+    "catalog": "5336-2402052",
+    "unit": "шт",
+    "price": 140,
+    "link": "https://www.autoopt.ru/catalog/784814-salnik_maz_hvostovika_2_2_85h110h12_rosich"
+  },
+  {
+    "id": 230,
+    "name": "Сальник передней ступицы",
+    "catalog": "2.2-92х120",
+    "unit": "шт",
+    "price": 170,
+    "link": "https://www.autoopt.ru/catalog/784812-salnik_maz_stupicy_perednej_bez_disk_kolesa_2_2_92h120h12_rosich"
+  },
+  {
+    "id": 231,
+    "name": "Сальник передней ступицы",
+    "catalog": "2.2-92х120-3",
+    "unit": "шт",
+    "price": 170,
+    "link": "https://www.autoopt.ru/catalog/784812-salnik_maz_stupicy_perednej_bez_disk_kolesa_2_2_92h120h12_rosich"
+  },
+  {
+    "id": 232,
+    "name": "Свеча накала отопителя 12в",
+    "catalog": "252069011300",
+    "unit": "шт",
+    "price": 9750,
+    "link": "https://www.autoopt.ru/catalog/516763-svecha_nakala_otopitelja_avtonomnogo_d2_d4_d4s_12v_shtift_eberspacher"
+  },
+  {
+    "id": 233,
+    "name": "Свеча накала отопителя  24в",
+    "catalog": "252070011100",
+    "unit": "шт",
+    "price": 6850,
+    "link": "https://www.autoopt.ru/catalog/291587-svecha_nakala_otopitelja_avtonomnogo_d2_d4_d4s_24v_shtift_eberspacher"
+  },
+  {
+    "id": 234,
+    "name": "Свеча накаливания Eberspacher D10/D9W 18V",
+    "catalog": "GH009",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=GH009"
+  },
+  {
+    "id": 235,
+    "name": "Свеча отопителя Планар",
+    "catalog": "Сб 886",
+    "unit": "шт",
+    "price": 4045,
+    "link": "https://www.autoopt.ru/catalog/986406-svecha_nakalivanija_planar_1224v_zamena_sb_886_advers"
+  },
+  {
+    "id": 236,
+    "name": "Сидение в сборе (под пневмопривод)",
+    "catalog": "6430-6800010",
+    "unit": "шт",
+    "price": 40910,
+    "link": "https://www.autoopt.ru/catalog/102617-sidene_maz_voditelja_v_sbore_pod_pnevmoprivod_ozaa"
+  },
+  {
+    "id": 237,
+    "name": "Сидение левое (с подголовником, анатомическое, на пневмо-подвеске)",
+    "catalog": "53205-6800010W",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=53205-6800010W"
+  },
+  {
+    "id": 238,
+    "name": "Соединитель трубки ПВХ, полиамид d=6мм (наружная резьба) М10х1 угольник латунь",
+    "catalog": "9502 6-M10X1",
+    "unit": "шт",
+    "price": 615,
+    "link": "https://www.autoopt.ru/catalog/601604-fiting_uglovoj_pod_trubku_pvh_poliamid_d6mm_naruzhnaja_rezba_m10h1_latun_camozzi"
+  },
+  {
+    "id": 239,
+    "name": "Соединитель трубки ПВХ, полиамид d=6мм-12мм (наруж.резьба) М22х1.5, (внутр.резьба) М12 крест.",
+    "catalog": "9600 12-6-M12X1.5-M22X1.5-S01",
+    "unit": "шт",
+    "price": 830,
+    "link": "https://www.autoopt.ru/catalog/601652-fiting_krest__pod_trubku_pvh_poliamid_d6mm_12mmnaruzh_rez__m22h1_5_vnutr_rez__m12_latun_camozzi"
+  },
+  {
+    "id": 240,
+    "name": "Стабилизатор задний Газель в сборе",
+    "catalog": "3302-2916001",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=3302-2916001"
+  },
+  {
+    "id": 241,
+    "name": "Стабилизатор МАЗ подвески задней в сборе Н/О",
+    "catalog": "55165-2916006",
+    "unit": "шт",
+    "price": 27140,
+    "link": "https://www.autoopt.ru/catalog/687774-stabilizator_maz_55165_podveski_zadnej_v_sbore_oao_maz"
+  },
+  {
+    "id": 242,
+    "name": "Стабилизатор передней подвески с рычагом",
+    "catalog": "6430-2906006",
+    "unit": "шт",
+    "price": 31410,
+    "link": "https://www.autoopt.ru/catalog/129167-stabilizator_maz_6430_podveski_perednej_v_sbore_oao_maz"
+  },
+  {
+    "id": 243,
+    "name": "Стартер дв CUMMINS ISF 2.8 12в",
+    "catalog": "5295576",
+    "unit": "шт",
+    "price": 10500,
+    "link": "https://www.autoopt.ru/catalog/258256-starter_gaz_3302_foton_dv_cummins_isf_2_8_12v_2_5kvt_startvolt"
+  },
+  {
+    "id": 244,
+    "name": "Стартер ЗИЛ-5301, ГАЗ, МАЗ, ПАЗ, МТЗ, ММЗ-Д243,245 редукт. (аналог СТ230Р, 7402.3708) 24V 5.2кВт z=10",
+    "catalog": "5404.3708000",
+    "unit": "шт",
+    "price": 22000,
+    "link": "https://www.autoopt.ru/catalog/172250-starter_mtz_1221_22_zil_gaz_maz_paz_dv_mmz_evro_2_d243_245_260_24v_6_8kvt_batje"
+  },
+  {
+    "id": 245,
+    "name": "Стартер КАМАЗ, ПАЗ, ЛИАЗ, НЕФАЗ дв.CUMMINS ISBe 185,210,270,285 FOTON (10 зубьев, 24V,6кВт)",
+    "catalog": "TT16182",
+    "unit": "шт",
+    "price": 18400,
+    "link": "https://www.autoopt.ru/catalog/460036-starter_kamaz_dv_cummins_4isbe185_6isbe270_285_300_24v_z10_6kvt_tesla_technics"
+  },
+  {
+    "id": 246,
+    "name": "Стартер МАЗ, УРАЛ дв.ЯМЗ-236,238,656,658 вып.с 2004г. 24V 9.2кВт z=10",
+    "catalog": "СТ142Т-3708000-10",
+    "unit": "шт",
+    "price": 23230,
+    "link": "https://www.autoopt.ru/catalog/535940-starter_maz_ural_dv_jamz_236_238_656_658_7511_evro_2_3_z10_9_2kvt_pramo"
+  },
+  {
+    "id": 247,
+    "name": "Стартер ЯМЗ-536",
+    "catalog": "AZF4137",
+    "unit": "шт",
+    "price": 15610,
+    "link": "https://www.autoopt.ru/catalog/565111-starter_jamz_534_536_24v_4kvt_tesla_technics"
+  },
+  {
+    "id": 248,
+    "name": "Стекло ветрового окна (1301х2381) ПАЗ Вектор NEXT",
+    "catalog": "320405-04-5206010",
+    "unit": "шт",
+    "price": 22400,
+    "link": "https://www.autoopt.ru/catalog/869616-steklo_vetrovoe_paz_320405_04_paz_vektor_next_kmk"
+  },
+  {
+    "id": 249,
+    "name": "Стекло ветровое",
+    "catalog": "6430-5206016",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=6430-5206016"
+  },
+  {
+    "id": 250,
+    "name": "Стекло ветровое ГАЗель Next, ГАЗон Next, УРАЛ Next",
+    "catalog": "A21R235206010",
+    "unit": "шт",
+    "price": 5460,
+    "link": "https://www.autoopt.ru/catalog/904358-steklo_vetrovoe_gazel_next_gazon_next_ural_next_kmk"
+  },
+  {
+    "id": 251,
+    "name": "Стекло ветровое МАЗ (защитная полоса)",
+    "catalog": "5336-5206010",
+    "unit": "шт",
+    "price": 5900,
+    "link": "https://www.autoopt.ru/catalog/904350-steklo_vetrovoe_maz_kmk"
+  },
+  {
+    "id": 252,
+    "name": "Стекло ветровое МАЗ-6430 ЕВРО триплекс (защитная полоса)",
+    "catalog": "6430-5206010ЗП",
+    "unit": "шт",
+    "price": 7700,
+    "link": "https://www.autoopt.ru/catalog/956276-steklo_vetrovoe_maz_6430_evro_tripleks_zaschitnaja_polosa_kmk"
+  },
+  {
+    "id": 253,
+    "name": "Стекло заднего фонаря Газель",
+    "catalog": "7702.37162",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=7702.37162"
+  },
+  {
+    "id": 254,
+    "name": "Стеклоподъемник Газель",
+    "catalog": "3302-6104012/13",
+    "unit": "шт",
+    "price": 45,
+    "link": "https://www.autoopt.ru/catalog/479721-piston_obivki_universalnyj_smilga"
+  },
+  {
+    "id": 255,
+    "name": "Стремянка ушка рессоры в сб. с гайками МАЗ (передняя)",
+    "catalog": "500-2912024",
+    "unit": "шт",
+    "price": 370,
+    "link": "https://www.autoopt.ru/catalog/129232-stremjanka_maz_5336_5551_ushka_ressory_perednej_l94mm_oao_maz"
+  },
+  {
+    "id": 256,
+    "name": "Стяжка кабельная ЭРА 5x400, 100 шт.",
+    "catalog": "NOKS019",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=NOKS019"
+  },
+  {
+    "id": 257,
+    "name": "Стяжки нейлоновые FORTISFLEX КСС 4х300 мм",
+    "catalog": "49399",
+    "unit": "шт",
+    "price": 2250,
+    "link": "https://www.autoopt.ru/catalog/014077-stojka_stabilizatora_citroen_jumper_02__perednego_levajapravaja_v_sbore_corteco"
+  },
+  {
+    "id": 258,
+    "name": "Сцепление в сборе ЯМЗ",
+    "catalog": "184-1600008-15",
+    "unit": "шт",
+    "price": 69210,
+    "link": "https://www.autoopt.ru/catalog/533488-sceplenie_jamz_184_15_maz_kraz_ural_v_sbore_polnyj_komplekt_avtodizel"
+  },
+  {
+    "id": 259,
+    "name": "Сцепление КАМАЗ-4308 (КПП ZF-6S-850 дв.CUMMINS B5.90-180CIV-0)",
+    "catalog": "3482000419/ 1878002071/3151000419",
+    "unit": "шт",
+    "price": 27250,
+    "link": "https://www.autoopt.ru/catalog/727636-sceplenie_kamaz_4308_kpp_zf_6s_850_dv_cummins_b5_90_180civ_0_v_sbore_megapower"
+  },
+  {
+    "id": 260,
+    "name": "Сцепление МАЗ-4370 Зубренок в сборе SACHS",
+    "catalog": "3482125512",
+    "unit": "шт",
+    "price": 30413,
+    "link": "https://www.autoopt.ru/catalog/143726-korzina_sceplenija_maz_4370_zubrenok_sachs"
+  },
+  {
+    "id": 261,
+    "name": "Теплообменник ГАЗ-3302 дв.CUMMINS ISF 2.8 масляный",
+    "catalog": "53185335266955",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=53185335266955"
+  },
+  {
+    "id": 262,
+    "name": "Теплообменник ЯМЗ-236НЕ/БЕ, 7601 жидкостно-масляный Н/О",
+    "catalog": "7601.1013600-02",
+    "unit": "шт",
+    "price": 36410,
+    "link": "https://www.autoopt.ru/catalog/207374-teploobmennik_jamz_236nebe__7601_zhidkostno_masljanyj_no_maz_teploobmennik"
+  },
+  {
+    "id": 263,
+    "name": "Термостат КАМАЗ, ГАЗ, ПАЗ дв.CUMMINS ISF 3.8, ISBe,ISDe",
+    "catalog": "4929642",
+    "unit": "шт",
+    "price": 1040,
+    "link": "https://www.autoopt.ru/catalog/645303-termostat_kamaz_gaz_paz_dv_cummins_isbe_isde_isf3_8_82grad__movelex"
+  },
+  {
+    "id": 264,
+    "name": "Термостат ЯМЗ 536",
+    "catalog": "107-1306100-05",
+    "unit": "шт",
+    "price": 338,
+    "link": "https://www.autoopt.ru/catalog/224695-termostat_kamaz_gaz_2410_3302_zil_4331_a_01_jamz_534_82_grad__pekar"
+  },
+  {
+    "id": 265,
+    "name": "ТНВД 4, 6 ISBe 4.5 6.7 ЕВРО 4 Cummins 5296096",
+    "catalog": "0 445 020 224",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=0 445 020 224"
+  },
+  {
+    "id": 266,
+    "name": "ТНВД Bosch",
+    "catalog": "445020224",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=445020224"
+  },
+  {
+    "id": 267,
+    "name": "Топливоприемник КАМАЗ-ЕВРО-3 с ДУТ и электро-подогревом L=525мм",
+    "catalog": "7508.453848.001-02",
+    "unit": "шт",
+    "price": 10180,
+    "link": "https://www.autoopt.ru/catalog/910252-toplivopriemnik_kamaz_evro_3_500l_s_dut_i_jelektro_podogrevom_l525mm_kjemz"
+  },
+  {
+    "id": 268,
+    "name": "Трапеция стеклоочистителя",
+    "catalog": "64221-5205500-010",
+    "unit": "шт",
+    "price": 9290,
+    "link": "https://www.autoopt.ru/catalog/145402-trapecija_stekloochistitelja_maz_64221_oao_maz"
+  },
+  {
+    "id": 269,
+    "name": "Трапеция стеклоочистителя",
+    "catalog": "6430-5205500-010",
+    "unit": "шт",
+    "price": 10980,
+    "link": "https://www.autoopt.ru/catalog/120805-trapecija_stekloochistitelja_maz_6430_5440_oao_maz"
+  },
+  {
+    "id": 270,
+    "name": "Тройник МАЗ привода КПП",
+    "catalog": "64301-1703790",
+    "unit": "шт",
+    "price": 1260,
+    "link": "https://www.autoopt.ru/catalog/598199-trojnik_maz_privoda_kpp_oao_maz"
+  },
+  {
+    "id": 271,
+    "name": "Трубка топливная ЯМЗ отвода топлива",
+    "catalog": "236-1104334",
+    "unit": "шт",
+    "price": 1800,
+    "link": "https://www.autoopt.ru/catalog/152376-trubka_toplivnaja_jamz_otvoda_topliva_avtodizel"
+  },
+  {
+    "id": 272,
+    "name": "Трубка ЯМЗ-236 подвода масла к ТНВД",
+    "catalog": "236-1111614",
+    "unit": "шт",
+    "price": 250,
+    "link": "https://www.autoopt.ru/catalog/694598-trubka_jamz_236_podvoda_masla_k_tnvd"
+  },
+  {
+    "id": 273,
+    "name": "Турбокомпрессор",
+    "catalog": "С15-505-01 евро-3",
+    "unit": "шт",
+    "price": 47055,
+    "link": "https://www.autoopt.ru/catalog/139665-turbokompressor_d_245_s2_maz_4370__valdaj_evro_3_cz_strakonice_"
+  },
+  {
+    "id": 274,
+    "name": "Турбокомпрессор CUMMINS ISF 2.8 евро-3",
+    "catalog": "3773121",
+    "unit": "шт",
+    "price": 27205,
+    "link": "https://www.autoopt.ru/catalog/771174-turbokompressor_cummins_isf_2_8_evro_3_model_he200wg_megapower"
+  },
+  {
+    "id": 275,
+    "name": "Турбокомпрессор ЯМЗ-236НЕ2, УРАЛ (8.8956)",
+    "catalog": "ТКР90-14",
+    "unit": "шт",
+    "price": 32780,
+    "link": "https://www.autoopt.ru/catalog/271553-turbokompressor_jamz_236ne23_236ne2_24_maz_kraz_ural_turbokom_"
+  },
+  {
+    "id": 276,
+    "name": "Турбокомпрессор ЯМЗ-53602 ЕВРО-4",
+    "catalog": "53602.1118010-10",
+    "unit": "шт",
+    "price": 36500,
+    "link": "https://www.autoopt.ru/catalog/755920-turbokompressor_jamz_53602_evro_4_megapower"
+  },
+  {
+    "id": 277,
+    "name": "Тяга рулевая МАЗ-5440, 6312, 6430, 6501 продольная L=1012мм",
+    "catalog": "5440-3003010",
+    "unit": "шт",
+    "price": 24490,
+    "link": "https://www.autoopt.ru/catalog/055062-tjaga_rulevaja_maz_5440_6312_6430_6501_prodolnaja_l1012mm_baaz"
+  },
+  {
+    "id": 278,
+    "name": "Угольник М22 х М22",
+    "catalog": "861020",
+    "unit": "шт",
+    "price": 160,
+    "link": "https://www.autoopt.ru/catalog/861020-fiting_dkosg_konus_24_12_m22h1_5"
+  },
+  {
+    "id": 279,
+    "name": "Указатель поворота передний",
+    "catalog": "26.3726",
+    "unit": "шт",
+    "price": 460,
+    "link": "https://www.autoopt.ru/catalog/017855-ukazatel_povorota_kamaz_maz_ural_perednij_osvar"
+  },
+  {
+    "id": 280,
+    "name": "Уплотнитель стекла",
+    "catalog": "6430-5206018",
+    "unit": "шт",
+    "price": 3600,
+    "link": "https://www.autoopt.ru/catalog/667893-uplotnitel_stekla_maz_vetrovogo_zao_amkodor_jelastomer"
+  },
+  {
+    "id": 281,
+    "name": "Уплотнитель стекла ГАЗель Next, ГАЗон Next, УРАЛ Next ветрового окна",
+    "catalog": "A21R23.5206050",
+    "unit": "шт",
+    "price": 990,
+    "link": "https://www.autoopt.ru/catalog/736180-uplotnitel_stekla_gazel_next__gazon_next__ural_next_vetrovogo_okna_oao_gaz"
+  },
+  {
+    "id": 282,
+    "name": "Упор капота газовый",
+    "catalog": "11-8407010-30",
+    "unit": "шт",
+    "price": 2000,
+    "link": "https://www.autoopt.ru/catalog/640667-amortizator_maz_5440_6430_oblicovki_radiatora_pruzhina_gazovaja_usilie_f320n_gzaa"
+  },
+  {
+    "id": 283,
+    "name": "Устройство натяжное МАЗ",
+    "catalog": "TR21140",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=TR21140"
+  },
+  {
+    "id": 284,
+    "name": "Устройство натяжное ЯМЗ-236НЕ",
+    "catalog": "236-1307155",
+    "unit": "шт",
+    "price": 1810,
+    "link": "https://www.autoopt.ru/catalog/105401-ustrojstvo_natjazhnoe_jamz_236ne_specmash"
+  },
+  {
+    "id": 285,
+    "name": "Фара 24v",
+    "catalog": "112.03.29-3711 (Байонетный разъём)",
+    "unit": "шт",
+    "price": 2720,
+    "link": "https://www.autoopt.ru/catalog/611758-fara_gaz_3102_kamaz_maz_uaz_3160_bajonetnyj_razem_rudensk"
+  },
+  {
+    "id": 286,
+    "name": "Фара блок ГАЗель Next левая AUTOMOTIVE LIGHTING",
+    "catalog": "A21R23.3711013",
+    "unit": "шт",
+    "price": 9010,
+    "link": "https://www.autoopt.ru/catalog/734832-fara_blok_gazel_next_levaja_oao_gaz"
+  },
+  {
+    "id": 287,
+    "name": "Фара блок ГАЗель Next правая AUTOMOTIVE LIGHTING",
+    "catalog": "A21R23.3711012",
+    "unit": "шт",
+    "price": 9010,
+    "link": "https://www.autoopt.ru/catalog/734858-fara_blok_gazel_next_pravaja_oao_gaz"
+  },
+  {
+    "id": 288,
+    "name": "Фиксатор МАЗ шарнира кабины",
+    "catalog": "6430-5001894",
+    "unit": "шт",
+    "price": 350,
+    "link": "https://www.autoopt.ru/catalog/625446-fiksator_maz_sharnira_kabiny_oao_maz"
+  },
+  {
+    "id": 289,
+    "name": "Фильтр воздушный салона ГАЗель Next",
+    "catalog": "A21R238119200",
+    "unit": "шт",
+    "price": 360,
+    "link": "https://www.autoopt.ru/catalog/873076-filtr_vozdushnyj_salona_gazel_next_ural_next_prostoj_pekar"
+  },
+  {
+    "id": 290,
+    "name": "Фильтр МАЗ отопителя",
+    "catalog": "64221-8101110-010",
+    "unit": "шт",
+    "price": 410,
+    "link": "https://www.autoopt.ru/catalog/518539-filtr_maz_otopitelja_dlja_otopitelja_64221_prema"
+  },
+  {
+    "id": 291,
+    "name": "Фонарь габаритный МАЗ 24V",
+    "catalog": "25.3731",
+    "unit": "шт",
+    "price": 1195,
+    "link": "https://www.autoopt.ru/catalog/020588-fonar_gabaritnyj_maz_24v_radiotehnika"
+  },
+  {
+    "id": 292,
+    "name": "Фонарь габаритный маркерный светодиодный со световозвращателем желтый",
+    "catalog": "ГФ07 (аналог ГФ1-25/74.3731)",
+    "unit": "шт",
+    "price": 295,
+    "link": "https://www.autoopt.ru/catalog/172227-fonar_gabaritnyj_gaz_paz_kamaz_maz_oranzhevyj_1224v__amp_ajek"
+  },
+  {
+    "id": 293,
+    "name": "Фонарь габаритный оранжевый (светодиод, колодка AMP, 24V, 65х115мм)",
+    "catalog": "4462.3731-03",
+    "unit": "шт",
+    "price": 755,
+    "link": "https://www.autoopt.ru/catalog/113367-fonar_gabaritnyj_oranzhevyj_svetodiod__kolodka_amp__24v__65h115mm_rudensk"
+  },
+  {
+    "id": 294,
+    "name": "Фонарь задний Газ 3302",
+    "catalog": "171.3716/112.02.16-01",
+    "unit": "шт",
+    "price": 2245,
+    "link": "https://www.autoopt.ru/catalog/059564-fonar_zadnij_gaz_3302_12v_rudensk"
+  },
+  {
+    "id": 295,
+    "name": "Фонарь задний левый с добавочным указателем байонетный разъём (боковой)",
+    "catalog": "7472.3716-08",
+    "unit": "шт",
+    "price": 3065,
+    "link": "https://www.autoopt.ru/catalog/107581-fonar_zadnij_kamaz_maz_ural_levyj_s_dobavochnym_ukazatelem_bajonetnyj_razem_bokovoj_rudensk"
+  },
+  {
+    "id": 296,
+    "name": "Фонарь задний правый с добавочным указателем байонетный разъём (боковой)",
+    "catalog": "7462.3716-08",
+    "unit": "шт",
+    "price": 3065,
+    "link": "https://www.autoopt.ru/catalog/107580-fonar_zadnij_kamaz_maz_ural_pravyj_s_dobavochnym_ukazatelem_bajonetnyj_razem_bokovoj_rudensk"
+  },
+  {
+    "id": 297,
+    "name": "Фонарь освещения знака номерного 24V",
+    "catalog": "ФП131АБ",
+    "unit": "шт",
+    "price": 585,
+    "link": "https://www.autoopt.ru/catalog/091023-fonar_osveschenija_znaka_nomernogo_kamaz_kraz_maz_ural_24v_osvar"
+  },
+  {
+    "id": 298,
+    "name": "Форсунка Бош",
+    "catalog": "445120161",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=445120161"
+  },
+  {
+    "id": 299,
+    "name": "Форсунка топливная",
+    "catalog": "445110595",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=445110595"
+  },
+  {
+    "id": 300,
+    "name": "Форсунка ЯМЗ-236НЕ2, БЕ2",
+    "catalog": "267.1112010-11(10)",
+    "unit": "шт",
+    "price": 4390,
+    "link": "https://www.autoopt.ru/catalog/147194-forsunka_jamz_236ne2_be2_analog_204_1112010_50_20_jazda"
+  },
+  {
+    "id": 301,
+    "name": "Форсунка ЯМЗ-534",
+    "catalog": "745340.1112010",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=745340.1112010"
+  },
+  {
+    "id": 302,
+    "name": "Хомут ленточный",
+    "catalog": "12-22мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 303,
+    "name": "Хомут ленточный",
+    "catalog": "150-170мм NORMA",
+    "unit": "шт",
+    "price": 140,
+    "link": "https://www.autoopt.ru/catalog/023005-homut_lentochnyj_150_170mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 304,
+    "name": "Хомут ленточный",
+    "catalog": "16-27мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 305,
+    "name": "Хомут ленточный",
+    "catalog": "20-32мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 306,
+    "name": "Хомут ленточный",
+    "catalog": "25-40мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 307,
+    "name": "Хомут ленточный",
+    "catalog": "30-45мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 308,
+    "name": "Хомут ленточный",
+    "catalog": "35-50мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 309,
+    "name": "Хомут ленточный",
+    "catalog": "40-60мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 310,
+    "name": "Хомут ленточный",
+    "catalog": "50-70мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 311,
+    "name": "Хомут ленточный",
+    "catalog": "60-80мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 312,
+    "name": "Хомут ленточный",
+    "catalog": "70-90мм NORMA",
+    "unit": "шт",
+    "price": 115,
+    "link": "https://www.autoopt.ru/catalog/303261-homut_70_90mm_norma"
+  },
+  {
+    "id": 313,
+    "name": "Хомут ленточный",
+    "catalog": "8-12мм NORMA",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/010761-homut_lentochnyj_016_027mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 314,
+    "name": "Хомут ленточный",
+    "catalog": "90-110мм NORMA",
+    "unit": "шт",
+    "price": 110,
+    "link": "https://www.autoopt.ru/catalog/011288-homut_lentochnyj_090_110mm_9mm_chervjachnyj_ocinkovannaja_stal_w1_norma"
+  },
+  {
+    "id": 315,
+    "name": "Хомут нейлоновый Вихрь 2.5х100",
+    "catalog": "73/9/1/10",
+    "unit": "шт",
+    "price": 13710,
+    "link": "https://www.autoopt.ru/catalog/017550-starter_gaz_paz_dv_zmz_511_10_513_10_73__5234_10_12v_z9_1_5kvt_batje"
+  },
+  {
+    "id": 316,
+    "name": "Цепь ГРМ дв.Cummins ISF 2.8L",
+    "catalog": "4982040",
+    "unit": "шт",
+    "price": 2530,
+    "link": "https://www.autoopt.ru/catalog/637775-cep_motornaja_gaz_3302_dv_cummins_isf_2_8_link"
+  },
+  {
+    "id": 317,
+    "name": "Цилиндр колесный заднего тормоза в сборе",
+    "catalog": "24-3501040-01",
+    "unit": "шт",
+    "price": 1310,
+    "link": "https://www.autoopt.ru/catalog/018048-cilindr_tormoznoj_zadnij_gaz_24_3302_gazel_next_no_d32_oao_gaz"
+  },
+  {
+    "id": 318,
+    "name": "Цилиндр МАЗ механизма опрокидывания кабины",
+    "catalog": "4370-5003010",
+    "unit": "шт",
+    "price": 27827,
+    "link": "https://www.autoopt.ru/catalog/068868-cilindr_maz_mehanizma_oprokidyvanija_kabiny_bagu_"
+  },
+  {
+    "id": 319,
+    "name": "Цилиндр МАЗ механизма опрокидывания кабины",
+    "catalog": "6430-5003010",
+    "unit": "шт",
+    "price": 11700,
+    "link": "https://www.autoopt.ru/catalog/279267-cilindr_maz_mehanizma_oprokidyvanija_kabiny_megapower"
+  },
+  {
+    "id": 320,
+    "name": "Цилиндр силовой ГУРа",
+    "catalog": "5336-3405005-02",
+    "unit": "шт",
+    "price": 34670,
+    "link": "https://www.autoopt.ru/catalog/112426-cilindr_silovoj_gura_maz_cg_80_280_bagu_"
+  },
+  {
+    "id": 321,
+    "name": "Цилиндр силовой ГУРа",
+    "catalog": "ЦГ50-280-3405010-030",
+    "unit": "шт",
+    "price": 19555,
+    "link": "https://www.autoopt.ru/catalog/068867-cilindr_silovoj_gura_maz_4370_cg_50_280_bagu_"
+  },
+  {
+    "id": 322,
+    "name": "Цилиндр силовой ГУРа",
+    "catalog": "ШНКФ.453429.085",
+    "unit": "шт",
+    "price": 45725,
+    "link": "https://www.autoopt.ru/catalog/609340-cilindr_silovoj_gura_maz_5440_6430_bagu"
+  },
+  {
+    "id": 323,
+    "name": "Цилиндр сцепления главный",
+    "catalog": "5320-1602512",
+    "unit": "шт",
+    "price": 5600,
+    "link": "https://www.autoopt.ru/catalog/153110-cilindr_sceplenija_glavnyj_kamaz_v_sbore_rostar"
+  },
+  {
+    "id": 324,
+    "name": "Цилиндр сцепления главный",
+    "catalog": "6430-1602510",
+    "unit": "шт",
+    "price": 8870,
+    "link": "https://www.autoopt.ru/catalog/145116-cilindr_sceplenija_glavnyj_maz_podpedalnyj_baaz"
+  },
+  {
+    "id": 325,
+    "name": "Цилиндр сцепления главный Газель",
+    "catalog": "3302-1602290",
+    "unit": "шт",
+    "price": 1939,
+    "link": "https://www.autoopt.ru/catalog/041547-cilindr_sceplenija_glavnyj_gaz_3302_3310_valdaj_zmz_406_405_v_sbore_oao_gaz"
+  },
+  {
+    "id": 326,
+    "name": "Шайбы уплотнительные (медные) ДВС ЯМЗ МАЗ (85шт)",
+    "catalog": "238-1000010",
+    "unit": "шт",
+    "price": 2640,
+    "link": "https://www.autoopt.ru/catalog/436731-shajba_jamz_mednaja_nabor_80sht__shc"
+  },
+  {
+    "id": 327,
+    "name": "Шкворень Газель в сб. (кт.2шт.)",
+    "catalog": "3302-3001019",
+    "unit": "к-т",
+    "price": 3030,
+    "link": "https://www.autoopt.ru/catalog/027533-shkvoren_gaz_3302_v_sbore_komplekt_2sht_oao_gaz"
+  },
+  {
+    "id": 328,
+    "name": "Шланг d=16мм силиконовый 2-х кордовый синий 1м",
+    "catalog": "ШС16х1000м",
+    "unit": "шт",
+    "price": 695,
+    "link": "https://www.autoopt.ru/catalog/974053-shlang_d16mm_silikonovyj_2_h_kordovyj_sinij_1m"
+  },
+  {
+    "id": 329,
+    "name": "Шланг d=18мм силиконовый 2-х кордовый (бухта 20м) синий",
+    "catalog": "ШС-18",
+    "unit": "шт",
+    "price": 12900,
+    "link": "https://www.autoopt.ru/catalog/422646-shlang_d18mm_silikonovyj_2_h_kordovyj_buhta_20m__cena_za_buhtu__ne_rezhem_sinij"
+  },
+  {
+    "id": 330,
+    "name": "Шланг d=22мм силиконовый 2-х кордовый (бухта 20м) синий",
+    "catalog": "ШС-20",
+    "unit": "шт",
+    "price": 13200,
+    "link": "https://www.autoopt.ru/catalog/422647-shlang_d20mm_silikonovyj_2_h_kordovyj_buhta_20m__cena_za_buhtu__ne_rezhem_sinij"
+  },
+  {
+    "id": 331,
+    "name": "Шланг d=22мм силиконовый 2-х кордовый (бухта 20м) синий",
+    "catalog": "ШС-22",
+    "unit": "шт",
+    "price": 15300,
+    "link": "https://www.autoopt.ru/catalog/422648-shlang_d22mm_silikonovyj_2_h_kordovyj_buhta_20m__cena_za_buhtu__ne_rezhem_sinij"
+  },
+  {
+    "id": 332,
+    "name": "Шланг ГУР нагнетательный для а/м ГАЗель НЕКСТ Next с трубками дв.Cummins Евро-5",
+    "catalog": "А21R22.3408150-20",
+    "unit": "шт",
+    "price": 2650,
+    "link": "https://www.autoopt.ru/catalog/940481-shlang_gazel_next_dv_cummins_isf_2_8_gura_nagnetatelnyj_mvk_avto"
+  },
+  {
+    "id": 333,
+    "name": "Шланг МАЗ подъема кабины",
+    "catalog": "5336-5009160",
+    "unit": "шт",
+    "price": 1900,
+    "link": "https://www.autoopt.ru/catalog/168737-shlang_maz_podema_kabiny_baaz"
+  },
+  {
+    "id": 334,
+    "name": "Шланг охладителя верхний с кольцами в сборе",
+    "catalog": "4320Я3-1109220",
+    "unit": "шт",
+    "price": 1700,
+    "link": "https://www.autoopt.ru/catalog/954781-shlang_ural_ohladitelja_soedinitelnyj_s_kolcami_gofra_silikon_megapower"
+  },
+  {
+    "id": 335,
+    "name": "Шланг тормозной (L-720мм)",
+    "catalog": "5336-3506085",
+    "unit": "шт",
+    "price": 490,
+    "link": "https://www.autoopt.ru/catalog/020811-shlang_tormoznoj_maz_ot_rdv_k_pprotivozamerzanija_l715mm_gajka_gajka_balakovo"
+  },
+  {
+    "id": 336,
+    "name": "Шланг тормозной Газель задний",
+    "catalog": "3302-3506025",
+    "unit": "шт",
+    "price": 295,
+    "link": "https://www.autoopt.ru/catalog/165487-shlang_tormoznoj_gaz_3302_gazel_next_promezhutochnyj_dzta"
+  },
+  {
+    "id": 337,
+    "name": "Шланг тормозной Газель передний",
+    "catalog": "3302-3506025-10",
+    "unit": "шт",
+    "price": 340,
+    "link": "https://www.autoopt.ru/catalog/177655-shlang_tormoznoj_gaz_3302_perednij_dzta"
+  },
+  {
+    "id": 338,
+    "name": "Шланг тормозной КАМАЗ-4310, 43118 передний (гайка-штуцер М20хМ16) L=815мм, D=22мм",
+    "catalog": "4310-3506060-20",
+    "unit": "шт",
+    "price": 510,
+    "link": "https://www.autoopt.ru/catalog/273587-shlang_tormoznoj_kamaz_4310_43118_perednij_v_metallicheskoj_opletke_gajka_shtucer_m20hm16_l815mm_tmk"
+  },
+  {
+    "id": 339,
+    "name": "Шланг тормозной МАЗ L=900мм (гайка-гайка)",
+    "catalog": "5440-3506085",
+    "unit": "шт",
+    "price": 930,
+    "link": "https://www.autoopt.ru/catalog/697519-shlang_tormoznoj_maz_l900mm_gajka_gajka_oao_maz_belog"
+  },
+  {
+    "id": 340,
+    "name": "Щетка стеклоочистителя",
+    "catalog": "64305205900",
+    "unit": "шт",
+    "price": 220,
+    "link": "https://www.autoopt.ru/catalog/120808-schetka_stekloochistitelja_maz_6430_530mm"
+  },
+  {
+    "id": 341,
+    "name": "Элемент обогрева зеркала 24V 360х170мм",
+    "catalog": "AT33913",
+    "unit": "шт",
+    "price": 310,
+    "link": "https://www.autoopt.ru/catalog/746866-jelement_obogreva_zerkala_24v_360h170mm_at"
+  },
+  {
+    "id": 342,
+    "name": "Энергоаккумулятор",
+    "catalog": "тип 20",
+    "unit": "шт",
+    "price": 1900,
+    "link": "https://www.autoopt.ru/catalog/590154-kamera_tormoza_zil_kamaz_tip_20_perednego_megapower"
+  },
+  {
+    "id": 343,
+    "name": "Энергоаккумулятор",
+    "catalog": "тип 24",
+    "unit": "шт",
+    "price": 1950,
+    "link": "https://www.autoopt.ru/catalog/590155-kamera_tormoza_zil_kamaz_maz_kraz_tip_24_perednego_megapower"
+  },
+  {
+    "id": 344,
+    "name": "Амортизатор МАЗ, УРАЛ, MAN 315/500 KN",
+    "catalog": "54327-2915006-10",
+    "unit": "шт",
+    "price": 4450,
+    "link": "https://www.autoopt.ru/catalog/777879-amortizator_maz_ural_man_315500_megapower"
+  },
+  {
+    "id": 345,
+    "name": "Бачок омывателя КАМАЗ, УРАЛ 5.4л в сборе 1мотор",
+    "catalog": "1112.5208000-01",
+    "unit": "шт",
+    "price": 730,
+    "link": "https://www.autoopt.ru/catalog/171860-bachok_omyvatelja_kamaz_ural_5_4l_v_sbore_1motor_tehnokam"
+  },
+  {
+    "id": 346,
+    "name": "Вкладыши ЯМЗ-236 коренные",
+    "catalog": "236-1000102-б2",
+    "unit": "шт",
+    "price": 2150,
+    "link": "https://www.autoopt.ru/catalog/461317-vkladyshi_jamz_236_korennye_d0_00_dajdo_metall_rus"
+  },
+  {
+    "id": 347,
+    "name": "Вкладыши ЯМЗ-236 шатунные d+0.00",
+    "catalog": "236-1000104-В2",
+    "unit": "шт",
+    "price": 2990,
+    "link": "https://www.autoopt.ru/catalog/431113-vkladyshi_jamz_236_shatunnye_d0_00_avtodizel"
+  },
+  {
+    "id": 348,
+    "name": "Генератор ГАЗ-3302 дв.CUMMINS ISF 2.8 14В 120А",
+    "catalog": "LG 0328",
+    "unit": "шт",
+    "price": 13630,
+    "link": "https://www.autoopt.ru/catalog/545189-generator_gaz_3302_dv_cummins_isf_2_8_14v_120a_kontakty_bolty_startvolt"
+  },
+  {
+    "id": 349,
+    "name": "Горелка подогревателя предпускового Hydronic 10 EBERSPAECHER",
+    "catalog": "252044110100",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=252044110100"
+  },
+  {
+    "id": 350,
+    "name": "Кабина МАЗ",
+    "catalog": "5340В5-5000008-020 У1",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=5340В5-5000008-020 У1"
+  },
+  {
+    "id": 351,
+    "name": "Колодка тормозная МАЗ (160мм, внешние с ппружиной)",
+    "catalog": "5336-3501090",
+    "unit": "шт",
+    "price": 5000,
+    "link": "https://www.autoopt.ru/catalog/610491-kolodki_tormoznye_maz_2sht__akkor"
+  },
+  {
+    "id": 352,
+    "name": "Колодка тормозная МАЗ (160мм, внешние с ппружиной)",
+    "catalog": "5336-3501091",
+    "unit": "шт",
+    "price": 4125,
+    "link": "https://www.autoopt.ru/catalog/168198-kolodki_tormoznye_maz_160mm_1sht__taim"
+  },
+  {
+    "id": 353,
+    "name": "Колодка тормозная МАЗ-5440",
+    "catalog": "5440-3502090",
+    "unit": "шт",
+    "price": 4410,
+    "link": "https://www.autoopt.ru/catalog/979467-kolodki_tormoznye_maz_5440_6430_650136_65669_zadnie_1sht__ztm"
+  },
+  {
+    "id": 354,
+    "name": "Колодка тормозная МАЗ-5440",
+    "catalog": "5440-3502091",
+    "unit": "шт",
+    "price": 4340,
+    "link": "https://www.autoopt.ru/catalog/561003-kolodki_tormoznye_maz_5440_6430_650136_65669_zadnie_1sht__ztm"
+  },
+  {
+    "id": 355,
+    "name": "Колодки тормозные ГАЗель Next передние",
+    "catalog": "A21R23.3501171",
+    "unit": "шт",
+    "price": 1080,
+    "link": "https://www.autoopt.ru/catalog/541503-kolodki_tormoznye_gazel_next_perednie_4sht__transmaster"
+  },
+  {
+    "id": 356,
+    "name": "Кольцо ЯМЗ стопорное пальца поршневого",
+    "catalog": "7511.1004022",
+    "unit": "шт",
+    "price": 425,
+    "link": "https://www.autoopt.ru/catalog/059714-kolco_jamz_stopornoe_palca_porshnevogo_avtodizel"
+  },
+  {
+    "id": 357,
+    "name": "Кольцо ЯМЗ-534, 536 уплотнительное трубы воздушной",
+    "catalog": "536.1115288",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/242964-kolco_jamz_534_536_uplotnitelnoe_truby_vozdushnoj_067_075_46_silikon_rd"
+  },
+  {
+    "id": 358,
+    "name": "Кронштейн трубы",
+    "catalog": "536.1115590",
+    "unit": "шт",
+    "price": 153,
+    "link": "https://www.autoopt.ru/catalog/713138-kronshtejn_jamz_536_truby_otvodjaschej_avtodizel"
+  },
+  {
+    "id": 359,
+    "name": "Крыло МАЗ-5336 правое",
+    "catalog": "5336-8403016",
+    "unit": "шт",
+    "price": 6780,
+    "link": "https://www.autoopt.ru/catalog/021993-krylo_maz_5336_pravoe_gruntovanoe_oao_maz"
+  },
+  {
+    "id": 360,
+    "name": "Лампа автомобильная 10W-12V",
+    "catalog": "10W BA15S 12V OSRAM",
+    "unit": "шт",
+    "price": 90,
+    "link": "https://www.autoopt.ru/catalog/094581-lampa_12v_r10w_ba15s_osram"
+  },
+  {
+    "id": 361,
+    "name": "Лампа автомобильная 10W-24V",
+    "catalog": "OSRAM ВА15s",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/082806-lampa_24v_r10w_ba15s_osram"
+  },
+  {
+    "id": 362,
+    "name": "Лампа автомобильная 12V W5W T10W W2.1x9.5d PHILIPS",
+    "catalog": "12961CP",
+    "unit": "шт",
+    "price": 100,
+    "link": "https://www.autoopt.ru/catalog/098157-lampa_12v_w5w_t10w_w2_1x9_5d_philips"
+  },
+  {
+    "id": 363,
+    "name": "Лампа автомобильная 21/5W-12V",
+    "catalog": "OSRAM 12V 21W/5W BAY15d",
+    "unit": "шт",
+    "price": 220,
+    "link": "https://www.autoopt.ru/catalog/791513-lampa_12v_p215w_bay15d_ultra_life_osram"
+  },
+  {
+    "id": 364,
+    "name": "Лампа автомобильная 21W-12V",
+    "catalog": "4050300838120",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=4050300838120"
+  },
+  {
+    "id": 365,
+    "name": "Лампа автомобильная 21W-24V",
+    "catalog": "7511",
+    "unit": "шт",
+    "price": 140,
+    "link": "https://www.autoopt.ru/catalog/076554-lampa_24v_p21w_ba15s_osram"
+  },
+  {
+    "id": 366,
+    "name": "Лампа автомобильная 24V W5W T10 W2.1x9.5d NARVA",
+    "catalog": "171973000",
+    "unit": "шт",
+    "price": 70,
+    "link": "https://www.autoopt.ru/catalog/094050-lampa_24v_w5w_t10w_w2_1x9_5d_narva"
+  },
+  {
+    "id": 367,
+    "name": "Лампа автомобильная H1-24v",
+    "catalog": "64155TSP",
+    "unit": "шт",
+    "price": 620,
+    "link": "https://www.autoopt.ru/catalog/699083-lampa_24v_h1_70w_p14_5s_120_truck_star_pro_osram"
+  },
+  {
+    "id": 368,
+    "name": "Лампа автомобильная H3-24V",
+    "catalog": "8GH007157241",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=8GH007157241"
+  },
+  {
+    "id": 369,
+    "name": "Лампа автомобильная H4-12V",
+    "catalog": "P43t-38",
+    "unit": "шт",
+    "price": 325,
+    "link": "https://www.autoopt.ru/catalog/025239-lampa_12v_h4_6055w_p43t_38_osram"
+  },
+  {
+    "id": 370,
+    "name": "Лампа автомобильная H4-24V",
+    "catalog": "8GJ002525251",
+    "unit": "шт",
+    "price": 450,
+    "link": "https://www.autoopt.ru/catalog/621482-lampa_24v_h4_7570w_p43t_38_trucklight_bosch"
+  },
+  {
+    "id": 371,
+    "name": "Лампа автомобильная H7-12V",
+    "catalog": "PX26D",
+    "unit": "шт",
+    "price": 445,
+    "link": "https://www.autoopt.ru/catalog/505467-lampa_12v_h7_55w_px26d_boks_2sht__long_life_megapower"
+  },
+  {
+    "id": 372,
+    "name": "Насос топливный отопителя автономного WEBASTO",
+    "catalog": "0335PM",
+    "unit": "шт",
+    "price": 5600,
+    "link": "https://www.autoopt.ru/catalog/895406-nasos_toplivnyj_otopitelja_avtonomnogo_webasto_dp42_thermo_top_evo90pro_1224v_sc_motori"
+  },
+  {
+    "id": 373,
+    "name": "Отопитель воздушный дизельный ПЛАНАР 4ДМ-24В 3.0кВт",
+    "catalog": "4ДМ2-24-S",
+    "unit": "шт",
+    "price": 35940,
+    "link": "https://www.autoopt.ru/catalog/138634-otopitel_vozdushnyj_dizelnyj_planar_4dm_24v_3_0kvt_advers"
+  },
+  {
+    "id": 374,
+    "name": "Палец поршневой ЯМЗ-7511",
+    "catalog": "7511-1004020",
+    "unit": "шт",
+    "price": 1230,
+    "link": "https://www.autoopt.ru/catalog/133401-palec_porshnevoj_jamz_7511_656_658_avtodizel"
+  },
+  {
+    "id": 375,
+    "name": "Повторитель поворота боковой (полукруглый)",
+    "catalog": "БПУП-6 01",
+    "unit": "шт",
+    "price": 180,
+    "link": "https://www.autoopt.ru/catalog/165733-svecha_zazhiganija_vaz_2112_gaz_3302_evro_3__ford_honda_mazda_nissan_megapower"
+  },
+  {
+    "id": 376,
+    "name": "Полукольцо опорное коленвала ЯМЗ-236",
+    "catalog": "236-1005183-Д",
+    "unit": "шт",
+    "price": 470,
+    "link": "https://www.autoopt.ru/catalog/404023-polukolco_opornoe_kolenvala_jamz_236_238_7511_ash"
+  },
+  {
+    "id": 377,
+    "name": "Поршневая группа ЯМЗ",
+    "catalog": "7511-1004005-50",
+    "unit": "шт",
+    "price": 10950,
+    "link": "https://www.autoopt.ru/catalog/145516-gilza_s_porshnem_jamz_7511_236ne2_gilza_porshen_uplk_pk_obsch_gbc_blok_658_31_656_31avtodizel"
+  },
+  {
+    "id": 378,
+    "name": "Ремень 236НЕ насоса водяного",
+    "catalog": "SPA-1045Lp",
+    "unit": "шт",
+    "price": 545,
+    "link": "https://www.autoopt.ru/catalog/625575-remen_gaz_53_ventiljatora__jamz_7511_236ne_nasosa_vodjanogo_rubena"
+  },
+  {
+    "id": 379,
+    "name": "Ремень ГАЗель Next генератора 8PK2166 дв.CUMMINS ISF 2.8 ЕВРО-4",
+    "catalog": "5312821-MX",
+    "unit": "шт",
+    "price": 2480,
+    "link": "https://www.autoopt.ru/catalog/911637-remen_gazel_next_generatora_8pk2166_dv_cummins_isf_2_8_evro_4_movelex"
+  },
+  {
+    "id": 380,
+    "name": "Ремень клиновый зубчатый",
+    "catalog": "13x1320",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=13x1320"
+  },
+  {
+    "id": 381,
+    "name": "Ремень приводной клиновой 13х1000 МАЗ-ЕВРО дв.ЯМЗ-236 гидроусилителя",
+    "catalog": "AVX13x1000",
+    "unit": "шт",
+    "price": 1050,
+    "link": "https://www.autoopt.ru/catalog/995805-remen_privodnoj_klinovoj_13h1000_dongil"
+  },
+  {
+    "id": 382,
+    "name": "Ремень ЯМЗ компрессора",
+    "catalog": "B-937Lw",
+    "unit": "шт",
+    "price": 630,
+    "link": "https://www.autoopt.ru/catalog/625581-remen_jamz_kompressora_rubena"
+  },
+  {
+    "id": 383,
+    "name": "Рем комплект отопителя ПЛАНАР",
+    "catalog": "сб.2158",
+    "unit": "шт",
+    "price": 290,
+    "link": "https://www.autoopt.ru/catalog/524155-remkomplekt_otopitelja_planar_4_sb_2158_advers"
+  },
+  {
+    "id": 384,
+    "name": "Рем комплект подогревателя предпускового Hydronic 10 горелки (прокладки) EBERSPAECHER",
+    "catalog": "251816991107",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=251816991107"
+  },
+  {
+    "id": 385,
+    "name": "Ролик МАЗ стеклоподъемника верхний ОАО МАЗ",
+    "catalog": "5336-6104126",
+    "unit": "шт",
+    "price": 360,
+    "link": "https://www.autoopt.ru/catalog/043012-rolik_maz_steklopodemnika_verhnij_oao_maz"
+  },
+  {
+    "id": 386,
+    "name": "Рукоятка МАЗ запора борта ОАО МАЗ",
+    "catalog": "5335-8505110",
+    "unit": "шт",
+    "price": 1510,
+    "link": "https://www.autoopt.ru/catalog/110585-rukojatka_maz_zapora_borta_oao_maz"
+  },
+  {
+    "id": 387,
+    "name": "Рычаг переключения передач МАЗ-5551, 5336 в сборе",
+    "catalog": "5551-1703410-01",
+    "unit": "шт",
+    "price": 3580,
+    "link": "https://www.autoopt.ru/catalog/013402-rychag_perekljuchenija_peredach_maz_5551_5336_v_sbore_kn"
+  },
+  {
+    "id": 388,
+    "name": "Скоба ЯМЗ форсунки",
+    "catalog": "236-1112163",
+    "unit": "шт",
+    "price": 305,
+    "link": "https://www.autoopt.ru/catalog/043247-skoba_jamz_forsunki"
+  },
+  {
+    "id": 389,
+    "name": "Стартер ГАЗ-3302 дв.CUMMINS ISF2.8 12В 2.5кВт",
+    "catalog": "5295576/5266969/5311304",
+    "unit": "шт",
+    "price": 8960,
+    "link": "https://www.autoopt.ru/catalog/535937-starter_gaz_3302_dv_cummins_isf2_8_12v_2_5kvt_pramo"
+  },
+  {
+    "id": 390,
+    "name": "Стартер КАМАЗ дв.CUMMINS 4ISBe185, 6ISBe270, 285, 300 24В z=10 6кВт",
+    "catalog": "M93R3026SE",
+    "unit": "шт",
+    "price": 13105,
+    "link": "https://www.autoopt.ru/catalog/524814-starter_kamaz_dv_cummins_4isbe185_6isbe270_285_300_24v_z10_6kvt_pramo"
+  },
+  {
+    "id": 391,
+    "name": "Термостат ЯМЗ-534 (82 град.)",
+    "catalog": "2531710",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=2531710"
+  },
+  {
+    "id": 392,
+    "name": "Толкатель МАЗ цилиндра сцепления в сборе",
+    "catalog": "64226-1602568",
+    "unit": "шт",
+    "price": 760,
+    "link": "https://www.autoopt.ru/catalog/150167-tolkatel_maz_cilindra_sceplenija_v_sbore"
+  },
+  {
+    "id": 393,
+    "name": "Уплотнитель двери МАЗ наружный L=4500",
+    "catalog": "6430-6107030-001",
+    "unit": "шт",
+    "price": 650,
+    "link": "https://www.autoopt.ru/catalog/816869-uplotnitel_dveri_maz_naruzhnyj_l4500"
+  },
+  {
+    "id": 394,
+    "name": "Уплотнитель проема двери 6430-6107024-010 ОАО МАЗ, наружный, L-3600 мм",
+    "catalog": "64306107024010",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=64306107024010"
+  },
+  {
+    "id": 395,
+    "name": "Уплотнитель проема двери нижний (L=1000 мм) МАЗ",
+    "catalog": "64306107025010",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=64306107025010"
+  },
+  {
+    "id": 396,
+    "name": "Фильтр воздушный ЯМЗ ЕВРО-3 (корпус) без элемента",
+    "catalog": "8421-1109012-24",
+    "unit": "шт",
+    "price": 11970,
+    "link": "https://www.autoopt.ru/catalog/054978-filtr_vozdushnyj_maz_6422a_5432a_dv_tmz_8401_8421_jamz_evro_3_korpus_bez_jelementa_remiz"
+  },
+  {
+    "id": 397,
+    "name": "Фильтр топливный Cummins F Series",
+    "catalog": "5297619F",
+    "unit": "шт",
+    "price": null,
+    "link": "https://www.autoopt.ru/search/index?search=5297619F"
+  },
+  {
+    "id": 398,
+    "name": "Фильтр-патрон КАМАЗ, МАЗ, ПАЗ осушителя воздуха WABCO",
+    "catalog": "432 410 222 7",
+    "unit": "шт",
+    "price": 2760,
+    "link": "https://www.autoopt.ru/catalog/110348-filtr_patron_kamaz_maz_paz_osushitelja_vozduha_wabco"
+  },
+  {
+    "id": 399,
+    "name": "Цилиндр КАМАЗ механизма опрокидывания кабины",
+    "catalog": "4310-5003014-10",
+    "unit": "шт",
+    "price": 16755,
+    "link": "https://www.autoopt.ru/catalog/689830-cilindr_kamaz_mehanizma_oprokidyvanija_kabiny_ppt"
+  },
+  {
+    "id": 400,
+    "name": "Шланг тормозной КАМАЗ-4310 задний (гайка-гайка М20хМ20)",
+    "catalog": "4310-3506442-20",
+    "unit": "шт",
+    "price": 1020,
+    "link": "https://www.autoopt.ru/catalog/901262-shlang_tormoznoj_kamaz_4310_zadnij_gajka_gajka_m20hm20_l805__d20mm_poljus_alfa"
+  },
+  {
+    "id": 401,
+    "name": "Текущий ремонт",
+    "catalog": "",
+    "unit": "нормо-час",
+    "price": null,
+    "link": ""
+  }
+]
